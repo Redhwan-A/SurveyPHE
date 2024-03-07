@@ -127,7 +127,7 @@ Deep learning-based human pose estimation: A survey  [[Paper](https://dl.acm.org
 
 1. A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-range Angles  [[paper](https://arxiv.org/pdf/2302.01110.pdf)]
 
-2. Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)]
+2. Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)
 
 
 
