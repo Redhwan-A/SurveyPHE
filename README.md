@@ -14,6 +14,12 @@
 
 **list (2018)**
 
+**...**
+
+**...**
+
+**...**
+
 
 Deep Learning for Head Pose Estimation: A Survey [[Paper](https://cris.unibo.it/retrieve/0c5f3b87-a734-4fb6-bdaa-076ea5e43072/s42979-023-01796-z.pdf)]
 
