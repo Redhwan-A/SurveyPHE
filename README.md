@@ -97,7 +97,7 @@ Deep learning-based human pose estimation: A survey  [[Paper](https://dl.acm.org
 
 2. Hands-free Mobile Device Control Through Head Pose Estimation [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10150384)]
 
-3. DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions [[paper]([https://arxiv.org/pdf/2303.07697.pdf](https://ieeexplore.ieee.org/abstract/document/10095670))]
+3. DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Control of Head Pose and Facial Expressions [[paper](https://arxiv.org/pdf/2303.07697.pdf](https://ieeexplore.ieee.org/abstract/document/10095670))]
 
 **list (2022)**
 
