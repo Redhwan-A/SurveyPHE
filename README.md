@@ -3,7 +3,8 @@
 **list (2024)**
 
 **list (2023)**
-Asymmetry-aware bilinear pooling in multi-modal data for head pose estimation [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596522001746)]
+
+1. Asymmetry-aware bilinear pooling in multi-modal data for head pose estimation [[Paper](https://www.sciencedirect.com/science/article/pii/S0923596522001746)]
 
 **list (2022)**
 
