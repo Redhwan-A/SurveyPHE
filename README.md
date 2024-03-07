@@ -96,6 +96,7 @@ Deep learning-based human pose estimation: A survey  [[Paper](https://dl.acm.org
 **list (2019)**
 
 **list (2018)**
+
 TokenHPE: Learning Orientation Tokens for Efficient Head Pose Estimation via Transformers [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.pdf)]
 
 GlassesGAN: Eyewear Personalization using Synthetic Appearance Discovery and Targeted Subspace Modeling [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Plesh_GlassesGAN_Eyewear_Personalization_Using_Synthetic_Appearance_Discovery_and_Targeted_Subspace_CVPR_2023_paper.pdf)]
@@ -106,18 +107,27 @@ DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Contro
 
 
 # Preprint Papers
-# list (2024)
-# list (2023)
+
+**list (2024)**
+
+**list (2023)**
+
 A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-range Angles  [[paper](https://arxiv.org/pdf/2302.01110.pdf)]
 
 Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)]
 
 
-# list (2022)
-# list (2021)
-# list (2020)
-# list (2019)
-# list (2018)
+
+
+**list (2022)**
+
+**list (2021)**
+
+**list (2020)**
+
+**list (2019)**
+
+**list (2018)**
 
 
 
