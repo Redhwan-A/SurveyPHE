@@ -153,6 +153,6 @@ DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Contro
 **...**
 
 
-
+# SUPPLEMENTARY MATERIAL
 
 
