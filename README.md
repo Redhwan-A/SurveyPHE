@@ -112,13 +112,12 @@ DisCoHead: Audio-and-Video-Driven Talking Head Generation by Disentangled Contro
 
 **list (2023)**
 
-%A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-range Angles  [[paper](https://arxiv.org/pdf/2302.01110.pdf)]
+1. A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-range Angles  [[paper](https://arxiv.org/pdf/2302.01110.pdf)]
 
-%Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)]
+2. Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)]
 
 
-1. [A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-range Angles](https://arxiv.org/pdf/2302.01110.pdf)
-2. [Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation](https://arxiv.org/pdf/2309.07654.pdf)
+
 
 
 
