@@ -99,7 +99,7 @@
 
 # SUPPLEMENTARY MATERIAL
 
-**Note:** these tables, we will convert them from images to texts after accepting.
+**Note:** We will convert these tables from images to texts after acceptance.
 
 ![Alt text](figures/1.jpg)
 ![Alt text](figures/2.jpg)
