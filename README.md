@@ -99,7 +99,7 @@ A Simple Baseline for Direct 2D Multi-Person Head Pose Estimation with Full-rang
 
 Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation [[paper](https://arxiv.org/pdf/2309.07654.pdf)]
 
-Head Orientation Estimation with Distributed Microphones Using Speech Radiation Patterns [[paper](https://www.researchgate.net/profile/Kaspar-Mueller-2/publication/376208370_Head_Orientation_Estimation_with_Distributed_Microphones_Using_Speech_Radiation_Patterns/links/656ee850eb682952273fe407/Head-Orientation-Estimation-with-Distributed-Microphones-Using-Speech-Radiation-Patterns.pdf)]
+
 # list (2022)
 # list (2021)
 # list (2020)
