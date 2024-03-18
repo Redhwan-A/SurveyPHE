@@ -99,7 +99,7 @@
 
 # SUPPLEMENTARY MATERIAL
 
-**Note:** We put them here because the pages are limited (only 35 for this journal).
+**Note:** We put them here because the pages are limited (only 35 for this journal). These tables and figures summarised and compared 120 papers.
 
 ![Alt text](figures/1.jpg)
 ![Alt text](figures/2.jpg)
