@@ -99,7 +99,7 @@
 
 # SUPPLEMENTARY MATERIAL
 
-**Note:** We will convert these tables from images to texts after acceptance. We put them here because the pages are limited (only 35 for this journal).
+**Note:** We put them here because the pages are limited (only 35 for this journal).
 
 ![Alt text](figures/1.jpg)
 ![Alt text](figures/2.jpg)
