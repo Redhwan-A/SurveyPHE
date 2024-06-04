@@ -97,18 +97,18 @@
 
 # Books
 
-# SUPPLEMENTARY MATERIAL
+%# SUPPLEMENTARY MATERIAL
 
-**Note:** We put them here because the pages are limited (only 35 for this journal). Table 3  and figures summarised and compared 120 papers.
+%**Note:** We put them here because the pages are limited (only 35 for this journal). Table 3  and figures summarised and compared 120 papers.
 
-![Alt text](figures/1.jpg)
-![Alt text](figures/2.jpg)
-![Alt text](figures/3.jpg)
-![Alt text](figures/4.jpg)
-![Alt text](figures/5.jpg)
-![Alt text](figures/6.jpg)
-![Alt text](figures/7.jpg)
-![Alt text](figures/8.jpg)
-![Alt text](figures/9.jpg)
+%![Alt text](figures/1.jpg)
+%![Alt text](figures/2.jpg)
+%![Alt text](figures/3.jpg)
+%![Alt text](figures/4.jpg)
+%![Alt text](figures/5.jpg)
+%![Alt text](figures/6.jpg)
+%![Alt text](figures/7.jpg)
+%![Alt text](figures/8.jpg)
+%![Alt text](figures/9.jpg)
 
 
