@@ -82,6 +82,8 @@
 * Tri-HGNN: Learning triple policies fused hierarchical graph neural networks for pedestrian trajectory prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323004703)]
 * Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164651)]
 * Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
+
+
 * Social Self-Attention Generative Adversarial Networks for Human Trajectory Prediction, IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197467)]
 * CSIR: Cascaded Sliding CVAEs With Iterative Socially-Aware Rethinking for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215313)]
 * Multimodal Manoeuvre and Trajectory Prediction for Automated Driving on Highways Using Transformer Networks, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207845)]
@@ -103,7 +105,7 @@
 
 
 ## Conference Papers 2023
-* Human Joint Kinematics Diffusion-Refinement for Stochastic Motion Prediction, AAAI 2023. [[paper](https://arxiv.org/pdf/2210.05976.pdf)]
+* Hands-free mobile device control through head pose estimation. In: 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and Other Affiliated Events (PerCom Workshops), pp 367–373. IEEE, Atlanta, GA, USA [[paper](https://ieeexplore.ieee.org/abstract/document/10150384)]
 * Multi-stream Representation Learning for Pedestrian Trajectory Prediction, AAAI 2023. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389)] [[code](https://github.com/YuxuanIAIR/MSRL-master)]
 * Continuous Trajectory Generation Based on Two-Stage GAN, AAAI 2023. [[paper](https://arxiv.org/pdf/2301.07103.pdf)] [[code](https://github.com/WenMellors/TS-TrajGen)]
 * A Set of Control Points Conditioned Pedestrian Trajectory Prediction, AAAI 2023. [[paper](https://assets.underline.io/lecture/67747/paper/82988b653861eb7a0d5cdc91c4b26f8c.pdf)] [[code](https://github.com/InhwanBae/GraphTERN)]
