@@ -50,8 +50,7 @@ Please consider citing our papers if this repository accelerates your research:
 - [**📚 2023 Conference and Journal Papers**](#-2023-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2023)
 	- [Journal Papers](#journal-papers-2023)
-        -  [Others](#others-2023)
-	
+   	- [Others](#others-2023)	
 - [**📚 2022 Conference and Journal Papers**](#-2022-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers-2022)
 	- [Journal Papers](#journal-papers-2022)
