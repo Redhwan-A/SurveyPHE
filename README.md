@@ -77,17 +77,15 @@
 * Asymmetry-aware bilinear pooling in multi-modal data for head pose estimation. Signal Process 110:116895. [[paper](https://www.sciencedirect.com/science/article/pii/S0923596522001746)]
 * Lightweight head pose estimation without keypoints based on multi-scale lightweight neural network. Vis Comput 39:1–15 [[paper](https://link.springer.com/article/10.1007/s00371-023-02781-6)]
 * Self-attention mechanism-based head pose estimation network with fusion of point cloud and image features. Sensors 23(24):9894 [[paper](https://www.mdpi.com/1424-8220/23/24/9894)]
+* Adaptive occlusion hybrid second-order attention network for head pose estimation. Int J Mach Learn Cyber 1:1–17 [[paper](https://link.springer.com/article/10.1007/s13042-023-01933-3)]
+* Driver visual attention estimation using head pose and eye appearance information. IEEE Open J Intell Transport Syst 4:216–231 [[paper](https://ieeexplore.ieee.org/abstract/document/10073949)]  
+* Towards 3d face reconstruction in perspective projection: Estimating 6d of face pose from monocular image. IEEE Trans Image Process 32:3080–3091. [[paper](https://ieeexplore.ieee.org/abstract/document/10127617)]
+* Rotation representations and their conversions. IEEE Access 11:6682–6699. [[paper](https://ieeexplore.ieee.org/abstract/document/10019271)]  
+* Real-time driver monitoring system with facial landmark-based eye closure detection and head pose recognition. Sci Rep 13(1):18264 [[paper](https://www.nature.com/articles/s41598-023-44955-1)]
+* Facial landmark, head pose, and occlusion analysis using multitask stacked hourglass. IEEE Access 11:30 970–30981 [[paper](https://ieeexplore.ieee.org/abstract/document/10082923)]
+* Domain adaptation for head pose estimation using relative pose consistency. IEEE `Trans Biometr Behav I dentity Sci 5(3):348–359. [[paper](https://ieeexplore.ieee.org/abstract/document/10021684)] 
 
-
-* Tri-HGNN: Learning triple policies fused hierarchical graph neural networks for pedestrian trajectory prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323004703)]
-* Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164651)]
-* Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
-
-
-* Social Self-Attention Generative Adversarial Networks for Human Trajectory Prediction, IEEE Transactions on Artificial Intelligence. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10197467)]
-* CSIR: Cascaded Sliding CVAEs With Iterative Socially-Aware Rethinking for Trajectory Prediction, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10215313)]
-* Multimodal Manoeuvre and Trajectory Prediction for Automated Driving on Highways Using Transformer Networks, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207845)]
-* A physics-informed Transformer model for vehicle trajectory prediction on highways, Transportation Research Part C: Emerging Technologies. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X23002619)] [[code](https://github.com/Gengmaosi/PIT-IDM)]
+  
 * MacFormer: Map-Agent Coupled Transformer for Real-time and Robust Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2308.10280.pdf)]
 * MRGTraj: A Novel Non-Autoregressive Approach for Human Trajectory Prediction, TCSVT. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226250)] [[code](https://github.com/wisionpeng/MRGTraj)]
 * Planning-inspired Hierarchical Trajectory Prediction via Lateral-Longitudinal Decomposition for Autonomous Driving, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10226224)]
@@ -105,10 +103,14 @@
 
 
 ## Conference Papers 2023
-* Hands-free mobile device control through head pose estimation. In: 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and Other Affiliated Events (PerCom Workshops), pp 367–373. IEEE, Atlanta, GA, USA [[paper](https://ieeexplore.ieee.org/abstract/document/10150384)]
-* Multi-stream Representation Learning for Pedestrian Trajectory Prediction, AAAI 2023. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/25389)] [[code](https://github.com/YuxuanIAIR/MSRL-master)]
+* Hands-free mobile device control through head pose estimation. In: 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and Other Affiliated Events (PerCom Workshops), pp 367–373. IEEE, Atlanta, GA, USA [[paper](https://ieeexplore.ieee.org/abstract/document/10150384)]  
+* Discohead: audio-and-video-driven talking head generation by disentangled control of head pose and facial expressions. In: ICASSP 2023–2023 IEEE International Conference on Acoustics. Speech and Signal Processing (ICA SSP). IEEE, Rhodes Island, Greece, pp 1–5 [[paper](https://ieeexplore.ieee.org/abstract/document/10095670)]
+
+  
 * Continuous Trajectory Generation Based on Two-Stage GAN, AAAI 2023. [[paper](https://arxiv.org/pdf/2301.07103.pdf)] [[code](https://github.com/WenMellors/TS-TrajGen)]
 * A Set of Control Points Conditioned Pedestrian Trajectory Prediction, AAAI 2023. [[paper](https://assets.underline.io/lecture/67747/paper/82988b653861eb7a0d5cdc91c4b26f8c.pdf)] [[code](https://github.com/InhwanBae/GraphTERN)]
+
+
 * Leveraging Future Relationship Reasoning for Vehicle Trajectory Prediction, ICLR 2023. [[paper](https://openreview.net/forum?id=CGBCTp2M6lA)]
 * IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.00575.pdf)]
 * FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-tail Trajectory Prediction, CVPR 2023. [[paper](https://arxiv.org/pdf/2303.16574.pdf)]
