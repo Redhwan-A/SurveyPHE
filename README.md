@@ -161,22 +161,7 @@
 * Research on face pose estimation method for virtual try-on system. In: 2022 international seminar on Computer Science and Engineering Technology (SCSET), pp 148–151. IEEE, Indianapolis, IN, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/9700923)]
 
   
-* Goal-driven Self-Attentive Recurrent Networks for Trajectory Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.11561.pdf)] [[code](https://github.com/luigifilippochiara/Goal-SAR)]
-* Importance Is in Your Attention: Agent Importance Prediction for Autonomous Driving, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2204.09121.pdf)]
-* MPA: MultiPath++ Based Architecture for Motion Prediction, CVPR Workshops 2022. [[paper](https://arxiv.org/pdf/2206.10041.pdf)] [[code](https://github.com/stepankonev/waymo-motion-prediction-challenge-2022-multipath-plus-plus)]
-* TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model, arXiv:2201.02941, 2022. [[paper](https://arxiv.org/pdf/2201.02941v1.pdf)]
-* Wayformer: Motion Forecasting via Simple & Efficient Attention Networks, arXiv preprint arXiv:2207.05844, 2022. [[paper](https://arxiv.org/pdf/2207.05844.pdf)]
-* PreTR: Spatio-Temporal Non-Autoregressive Trajectory Prediction Transformer, arXiv preprint arXiv:2203.09293, 2022. [[paper](https://arxiv.org/pdf/2203.09293.pdf)]
-* LatentFormer: Multi-Agent Transformer-Based Interaction Modeling and Trajectory Prediction, arXiv preprint arXiv:2203.01880, 2022. [[paper](https://arxiv.org/pdf/2203.01880.pdf)]
-* Diverse Multiple Trajectory Prediction Using a Two-stage Prediction Network Trained with Lane Loss, arXiv preprint arXiv:2206.08641, 2022. [[paper](https://arxiv.org/pdf/2206.08641.pdf)]
-* Semi-supervised Semantics-guided Adversarial Training for Trajectory Prediction, arXiv preprint arXiv:2205.14230, 2022. [[paper](https://arxiv.org/pdf/2205.14230.pdf)]
-* Heterogeneous Trajectory Forecasting via Risk and Scene Graph Learning, arXiv preprint arXiv:2211.00848, 2022. [[paper](https://arxiv.org/pdf/2211.00848.pdf)]
-* GATraj: A Graph- and Attention-based Multi-Agent Trajectory Prediction Model, arXiv preprint arXiv:2209.07857, 2022. [[paper](https://arxiv.org/pdf/2209.07857.pdf)] [[code](https://github.com/mengmengliu1998/GATraj)]
-* Dynamic-Group-Aware Networks for Multi-Agent Trajectory Prediction with Relational Reasoning, arXiv preprint arXiv:2206.13114, 2022. [[paper](https://arxiv.org/pdf/2206.13114.pdf)]
-* Collaborative Uncertainty Benefits Multi-Agent Multi-Modal Trajectory Forecasting, arXiv preprint arXiv:2207.05195, 2022. [[paper](https://arxiv.org/abs/2207.05195)] [[code](https://github.com/MediaBrain-SJTU/Collaborative-Uncertainty)]
-* Guided Conditional Diffusion for Controllable Traffic Simulation, arXiv preprint arXiv:2210.17366, 2022. [[paper](https://arxiv.org/pdf/2210.17366.pdf)] [[website](https://aiasd.github.io/ctg.github.io/)]
-* PhysDiff: Physics-Guided Human Motion Diffusion Model, arXiv preprint arXiv:2212.02500, 2022. [[paper](http://xxx.itp.ac.cn/pdf/2212.02500.pdf)]
-* Trajectory Forecasting on Temporal Graphs, arXiv preprint arXiv:2207.00255, 2022. [[paper](https://arxiv.org/pdf/2207.00255.pdf)] [[website](https://kuis-ai.github.io/ftgn/)]
+
 
 
 
