@@ -2,9 +2,13 @@
 ******
 # 📜 Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**📚 2024 Conference and Journal Papers**](#-2024-conference-and-journal-papers)	
+- [**📚 2024 Conference and Journal Papers**](#-2024-conference-and-journal-papers)
+        - [Journal Papers](#journal-papers-2023)
 	- [Journal Papers](#journal-papers-2024)        
 	- [Conference Papers](#Conference-Papers-2024)
+- [**📚 2023 Conference and Journal Papers**](#-2023-conference-and-journal-papers)
+	- [Conference Papers](#conference-papers-2023)	
+	- [Others](#others-2023)
 - [**📚 2018 and Before Conference and Journal Papers**](#-2018-and-before-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers)
 	- [Journal Papers](#journal-papers)
@@ -25,10 +29,7 @@
 	- [Conference Papers](#conference-papers-2022)
 	- [Journal Papers](#journal-papers-2022)
 	- [Others](#others-2022)
-- [**📚 2023 Conference and Journal Papers**](#-2023-conference-and-journal-papers)
-	- [Conference Papers](#conference-papers-2023)
-	- [Journal Papers](#journal-papers-2023)
-	- [Others](#others-2023)
+
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**📚 Datasets**](#-datasets)
   	- [Reviews about Datasets](#reviews-about-datasets)
