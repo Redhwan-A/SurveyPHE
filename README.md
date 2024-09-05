@@ -73,10 +73,12 @@
 * Deep learning for head pose estimation: a survey. SN Comput Sci 4(4):349 [[paper](https://link.springer.com/article/10.1007/s42979-023-01796-z)]
 * Head pose estimation patterns as deepfake detectors. ACM Transactions on Multimedia Computing, Communications and Applications [[paper](https://dl.acm.org/doi/abs/10.1145/3612928)]
 * 2d image head pose estimation via latent space regression under occlusion settings. Pattern Recogn 137:109288 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322007671)] [[code](https://github.com/Jose-Celestino/OcclusionHPE)]
-* Driver head pose detection from naturalistic driving data. IEEE Trans Intell Transp Syst 24(9):9368–9377 [[paper](https://ieeexplore.ieee.org/abstract/document/10128799)]
-* VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction, IEEE Transactions on Vehicular Technology. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121688)]
-* Spatial-Temporal-Spectral LSTM: A Transferable Model for Pedestrian Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149368)]
-* Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002935)]
+* Driver head pose detection from naturalistic driving data. IEEE Trans Intell Transp Syst 24(9):9368–9377 [[paper](https://ieeexplore.ieee.org/abstract/document/10128799)]  
+* Asymmetry-aware bilinear pooling in multi-modal data for head pose estimation. Signal Process 110:116895. [[paper](https://www.sciencedirect.com/science/article/pii/S0923596522001746)]
+* Lightweight head pose estimation without keypoints based on multi-scale lightweight neural network. Vis Comput 39:1–15 [[paper](https://link.springer.com/article/10.1007/s00371-023-02781-6)]
+* Self-attention mechanism-based head pose estimation network with fusion of point cloud and image features. Sensors 23(24):9894 [[paper](https://www.mdpi.com/1424-8220/23/24/9894)]
+
+
 * Tri-HGNN: Learning triple policies fused hierarchical graph neural networks for pedestrian trajectory prediction, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323004703)]
 * Multimodal Vehicular Trajectory Prediction With Inverse Reinforcement Learning and Risk Aversion at Urban Unsignalized Intersections, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10164651)]
 * Trajectory prediction for autonomous driving based on multiscale spatial‐temporal graph, IET Intelligent Transport Systems. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/itr2.12265)]
