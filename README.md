@@ -54,9 +54,16 @@
 * Iot-enabled biometric security: enhancing smart car safety with depth-based head pose est imation. ACM Transactions on Multimedia Computing, Communications and Applications. [[paper](https://dl.acm.org/doi/full/10.1145/3639367)]
 * On the representation and methodology for wide and short range head pose estimation. Pattern Recogn 149:110263. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000141)]
 * Toward robust and unconstrained full range of rotation head pose estimation. IEEE Trans Image Process 33:2377–2387 [[paper](https://ieeexplore.ieee.org/abstract/document/10477888)]
-*Fusion-competition framework of local topology and global texture for head pose estimation. Pattern Recogn 149:110285. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000360)]
+* Fusion-competition framework of local topology and global texture for head pose estimation. Pattern Recogn 149:110285. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000360)]
 * Deep-learning-based head pose estimation from a single rgb image and its application to medical crom measurement. Multimed Tools Appl 1:1–20 [[paper](https://link.springer.com/article/10.1007/s11042-024-18612-2)]
-* DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
+* Head pose estimation with uncertainty and an application to dyadic interaction detection. Comput Vis Image Underst 243:103999 [[paper](https://www.sciencedirect.com/science/article/pii/S1077314224000808)]
+* Headdiff: Exploring rotation uncertainty with diffusion models for head pose estimation. In: IEEE Transactions on Image Processing [[paper](https://ieeexplore.ieee.org/abstract/document/10462910)]
+* Head pose estimation based on multi-level feature fusion. Int J Pattern Recogni Artif Intell 1:1 [[paper](https://www.worldscientific.com/doi/abs/10.1142/S0218001424560020)]
+* Head-pose estimation based on lateral canthus localizations in 2-d images. In: IEEE Transactions on Human-Machine Systems [[paper](https://ieeexplore.ieee.org/abstract/document/10415312)]
+* Dadl: double asymmetric distribution learning for head pose estimation in wisdom museum. J King Saud Univ Comput Inf Sci 36(1):101869 [[paper](https://www.sciencedirect.com/science/article/pii/S1319157823004238)]
+* 6dflrnet: 6d rotation representation for head pose estimation based on facial landmarks and regression. Multimed Tools Appl, 1–20 [[paper](https://link.springer.com/article/10.1007/s11042-023-17731-6)]
+
+
 ## Conference Papers 2024
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
