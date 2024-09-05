@@ -51,7 +51,7 @@
 # 📚 2024 Conference and Journal Papers
 ## Journal Papers 2024
 * Real-time 6dof full-range markerless head pose estimation. Expert Syst Appl 239:122293. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423027951)] [[code](https://github.com/Redhwan-A/6DoFHPE)]
-* A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
+* Iot-enabled biometric security: enhancing smart car safety with depth-based head pose est imation. ACM Transactions on Multimedia Computing, Communications and Applications. [[paper](https://dl.acm.org/doi/full/10.1145/3639367)]
 * EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
 * Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
 * Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
