@@ -1,4 +1,4 @@
-# Awesome-Traffic-Agent-Trajectory-Prediction
+# Deep learning and machine learning techniques for head pose estimation: a survey
 ![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
 
 
