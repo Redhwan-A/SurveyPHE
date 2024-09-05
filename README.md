@@ -1,6 +1,6 @@
 # 📜 Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-- [**📚 Traditional Methods**](#-traditional-methods)
+- [**📚 Journal Papers**](#-Journal Papers)
 - [**📚 2018 and Before Conference and Journal Papers**](#-2018-and-before-conference-and-journal-papers)
 	- [Conference Papers](#conference-papers)
 	- [Journal Papers](#journal-papers)
