@@ -54,8 +54,8 @@
 * Iot-enabled biometric security: enhancing smart car safety with depth-based head pose est imation. ACM Transactions on Multimedia Computing, Communications and Applications. [[paper](https://dl.acm.org/doi/full/10.1145/3639367)]
 * On the representation and methodology for wide and short range head pose estimation. Pattern Recogn 149:110263. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000141)]
 * Toward robust and unconstrained full range of rotation head pose estimation. IEEE Trans Image Process 33:2377–2387 [[paper](https://ieeexplore.ieee.org/abstract/document/10477888)]
-* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
-* Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement (TIM). [[paper](https://ieeexplore.ieee.org/abstract/document/10466609)]
+*Fusion-competition framework of local topology and global texture for head pose estimation. Pattern Recogn 149:110285. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000360)]
+* Deep-learning-based head pose estimation from a single rgb image and its application to medical crom measurement. Multimed Tools Appl 1:1–20 [[paper](https://link.springer.com/article/10.1007/s11042-024-18612-2)]
 * DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
 ## Conference Papers 2024
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
