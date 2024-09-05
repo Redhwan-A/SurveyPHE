@@ -70,10 +70,10 @@
 * non
 # 📚 2023 Conference and Journal Papers
 ## Journal Papers 2023
-* MVHGN: Multi-View Adaptive Hierarchical Spatial Graph Convolution Network Based Trajectory Prediction for Heterogeneous Traffic-Agents, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10056303)]
-* Adaptive and Simultaneous Trajectory Prediction for Heterogeneous Agents via Transferable Hierarchical Transformer Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149109)]
-* SSAGCN: Social Soft Attention Graph Convolution Network for Pedestrian Trajectory Prediction, TNNLS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10063206)] [[code](https://github.com/WW-Tong/ssagcn_for_path_prediction)]
-* Disentangling Crowd Interactions for Pedestrians Trajectory Prediction, RAL. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10083225)]
+* Deep learning for head pose estimation: a survey. SN Comput Sci 4(4):349 [[paper](https://link.springer.com/article/10.1007/s42979-023-01796-z)]
+* Head pose estimation patterns as deepfake detectors. ACM Transactions on Multimedia Computing, Communications and Applications [[paper](https://dl.acm.org/doi/abs/10.1145/3612928)]
+* 2d image head pose estimation via latent space regression under occlusion settings. Pattern Recogn 137:109288 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322007671)] [[code](https://github.com/Jose-Celestino/OcclusionHPE)]
+* Driver head pose detection from naturalistic driving data. IEEE Trans Intell Transp Syst 24(9):9368–9377 [[paper](https://ieeexplore.ieee.org/abstract/document/10128799)]
 * VNAGT: Variational Non-Autoregressive Graph Transformer Network for Multi-Agent Trajectory Prediction, IEEE Transactions on Vehicular Technology. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10121688)]
 * Spatial-Temporal-Spectral LSTM: A Transferable Model for Pedestrian Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10149368)]
 * Holistic Transformer: A Joint Neural Network for Trajectory Prediction and Decision-Making of Autonomous Vehicles, PR. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320323002935)]
