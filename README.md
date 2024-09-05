@@ -164,14 +164,14 @@
 
 
 # 📚 2021 Conference and Journal Papers
-## Journal Papers 2021
-* Are socially-aware trajectory prediction models really socially-aware?, Transportation Research: Part C. [[paper](https://arxiv.org/pdf/2108.10879.pdf), [paper](https://iccv21-adv-workshop.github.io/short_paper/s-attack-arow2021.pdf)] [[code](https://s-attack.github.io/)]
-* Injecting knowledge in data-driven vehicle trajectory predictors, Transportation Research: Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21000425?token=F03D20769BFB255F56662C10348A81F3D07A42C6B4AB9BA19E3F7B2A5F1DA7D99B96B783616BDA86C12866AFCF4C5671&originRegion=eu-west-1&originCreation=20220506090622)] [[code](https://github.com/vita-epfl/RRB)]
-* Decoding pedestrian and automated vehicle interactions using immersive virtual reality and interpretable deep learning, Transportation Research: Part C. [[paper](https://www.sciencedirect.com/science/article/pii/S0968090X2030855X)]
-* Human Trajectory Forecasting in Crowds: A Deep Learning Perspective,  IEEE Transactions on Intelligent Transportation Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9408398)] [[code](https://github.com/vita-epfl/trajnetplusplusbaselines)]
-* NetTraj: A Network-Based Vehicle Trajectory Prediction Model With Directional Representation and Spatiotemporal Attention Mechanisms, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9629362)]
-* Spatio-Temporal Graph Dual-Attention Network for Multi-Agent Prediction and Tracking, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9491972)]
-* A Hierarchical Framework for Interactive Behaviour Prediction of Heterogeneous Traffic Participants Based on Graph Neural Network, TITS. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9468360&tag=1)]
+## Journal Papers 2021* 
+* Target recovery for robust deep learning-based person following in mobile robots: online trajectory prediction. Appl Sci 11(9):4165. [[paper](https://www.mdpi.com/2076-3417/11/9/4165)] 
+* Learning 3d head pose from synthetic data: a semi-supervised approach. IE EE Access 9:37557–37573. [[paper](https://ieeexplore.ieee.org/abstract/document/9369299)]
+* Impact of facial landmark localization on facial expression recognition. IEEE Trans Affect Comput 14(2):1267–1279. [[paper](https://ieeexplore.ieee.org/abstract/document/9599570)]
+* Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)]  
+* Pifs scheme for head pose estimation aimed at faster face recognition. IEEE Trans Biome tr Behav Identity Sci 4(2):173–184. [[paper](https://ieeexplore.ieee.org/abstract/document/9585068)]
+* Fashe: A fractal based strategy for head pose estimation. IEEE Trans Image Process 30:3 192–3203. [[paper](https://ieeexplore.ieee.org/abstract/document/9360493)]
+  
 * TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning, Transportation Research Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21001121?token=3DEACAF2AD919E99B3331E74F747B61A0EAC2741E79B6F99F4F806155EB394F163D74F2F83806358BBD65911E107EF01&originRegion=us-east-1&originCreation=20220416040814)] [[code](https://github.com/benchoi93/TrajGAIL)]
 * Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, IEEE ROBOTICS AND AUTOMATION LETTERS. [[paper](https://www.gilitschenski.org/igor/publications/202104-ral-logic_gan/ral21-logic_gan.pdf)]
 * Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms, IEEE Intelligent Transportation Systems Magazine. [[paper](http://urdata.net/files/2020_VTP.pdf)] [[code](https://github.com/leilin-research/VTP)]
