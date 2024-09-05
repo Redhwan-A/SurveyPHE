@@ -87,6 +87,14 @@ Please consider citing our papers if this repository accelerates your research:
 
 ******
 # 📚 2024 Conference and Journal Papers
+## Journal Papers 2024
+* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
+* A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
+* EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
+* Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
+* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
+* Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement (TIM). [[paper](https://ieeexplore.ieee.org/abstract/document/10466609)]
+* DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
 ## Conference Papers 2024
 * BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
 * NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
@@ -111,14 +119,6 @@ Please consider citing our papers if this repository accelerates your research:
 * Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
 * SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
 * MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
-## Journal Papers 2024
-* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
-* A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
-* EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
-* Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
-* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
-* Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement (TIM). [[paper](https://ieeexplore.ieee.org/abstract/document/10466609)]
-* DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
 ## Others 2024
 * Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
 * Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
