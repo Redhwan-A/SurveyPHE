@@ -88,7 +88,7 @@ Please consider citing our papers if this repository accelerates your research:
 ******
 # 📚 2024 Conference and Journal Papers
 ## Journal Papers 2024
-* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
+* Real-time 6dof full-range markerless head pose estimation. Expert Syst Appl 239:122293. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423027951)] [[code](https://github.com/Redhwan-A/6DoFHPE)]
 * A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
 * EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
 * Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
