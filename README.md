@@ -86,6 +86,59 @@ Please consider citing our papers if this repository accelerates your research:
 	<!-- /TOC -->
 
 ******
+# 📚 2024 Conference and Journal Papers
+## Conference Papers 2024
+* BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
+* NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
+* Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
+* Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18447)] [[code](https://github.com/InhwanBae/LMTrajectory)]
+* SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18452)] [[code](https://github.com/InhwanBae/SingularTrajectory)]
+* Producing and Leveraging Online Map Uncertainty in Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.16439.pdf)] [[code](https://github.com/alfredgu001324/MapUncertaintyPrediction)]
+* HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.06351.pdf)] [[code](https://github.com/XiaolongTang23/HPNet)]
+* Adapting to Length Shift: FlexiLength Network for Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.00742.pdf)]
+* T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.10052.pdf)] [[code](https://github.com/daeheepark/T4P)]
+* SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2310.05370.pdf)] [[code](https://github.com/cocoon2wong/SocialCircle)]
+* Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving, CVPR 2024. [[paper](https://arxiv.org/pdf/2306.15755.pdf)]
+* CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving, CVPR 2024.
+* Higher-order Relational Reasoning for Pedestrian Trajectory Prediction, CVPR 2024.
+* Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction, CVPR 2024.
+* OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.02227.pdf)] [[code](https://github.com/Hai-chao-Zhang/OOSTraj)]
+* SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.11492)] [[code](https://github.com/opendilab/SmartRefine)]
+* MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.01266)]
+* Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.02145)]
+* A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment, IJCAI 2024. [[paper](https://arxiv.org/pdf/2404.17520)]
+* Physics-Informed Trajectory Prediction for Autonomous Driving under Missing Observation, IJCAI 2024. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809575 )]
+* Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
+* SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
+* MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
+## Journal Papers 2024
+* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
+* A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
+* EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
+* Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
+* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
+* Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement (TIM). [[paper](https://ieeexplore.ieee.org/abstract/document/10466609)]
+* DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
+## Others 2024
+* Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
+* Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
+* Intention-aware Denoising Diffusion Model for Trajectory Prediction, arXiv preprint arXiv:2403.09190, 2024. [[paper](https://arxiv.org/pdf/2403.09190.pdf)]
+* LG-Traj: LLM Guided Pedestrian Trajectory Prediction, arXiv preprint arXiv:2403.08032, 2024. [[paper](https://arxiv.org/pdf/2403.08032.pdf)]
+* Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models, arXiv preprint arXiv:2405.04909, 2024. [[paper](https://arxiv.org/pdf/2405.04909)]
+* UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction, arXiv preprint arXiv:2403.15098, 2024. [[paper](https://arxiv.org/pdf/2403.15098.pdf)] [[code](https://github.com/vita-epfl/UniTraj)]
+* Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion, arXiv preprint arXiv:2404.02524, 2024. [[paper](https://arxiv.org/pdf/2404.02524.pdf)] [[code](https://sites.google.com/view/versatile-behavior-diffusion)]
+* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
+* Diffusion-Based Environment-Aware Trajectory Prediction, arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
+* A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
+* BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction, arXiv preprint arXiv:2405.17372, 2024. [[paper](https://arxiv.org/pdf/2405.17372)]
+* Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability, arXiv preprint arXiv:2405.17398, 2024. [[paper](https://arxiv.org/pdf/2405.17398)] [[code](https://github.com/OpenDriveLab/Vista)]
+* UrbanGPT: Spatio-Temporal Large Language Models, arXiv preprint arXiv:2403.00813, 2024. [[paper](https://arxiv.org/pdf/2403.00813)] [[code](https://github.com/HKUDS/UrbanGPT)]
+* Continuously Learning, Adapting, and, Improving: A Dual-Process Approach to Autonomous Driving, arXiv preprint arXiv:2405.15324, 2024. [[paper](https://arxiv.org/pdf/2405.15324)] [[code](https://github.com/PJLab-ADG/LeapAD)]
+* DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models, arXiv preprint arXiv:2402.12289, 2024. [[paper](https://arxiv.org/pdf/2402.12289)] [[website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
+* NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking, arXiv preprint arXiv:2406.15349, 2024. [[paper](https://arxiv.org/pdf/2406.15349)] [[code](https://github.com/autonomousvision/navsim)]
+* SimGen: Simulator-conditioned Driving Scene Generation, arXiv preprint arXiv:2406.09386, 2024. [[paper](https://arxiv.org/pdf/2406.09386)] [[code](https://metadriverse.github.io/simgen/)]
+* GenAD: Generative End-to-End Autonomous Driving, arXiv preprint arXiv:2402.11502, 2024. [[paper](https://arxiv.org/pdf/2402.11502)] [[code](https://github.com/wzzheng/GenAD)]
+
 
 # 📚 Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
@@ -761,58 +814,6 @@ Please consider citing our papers if this repository accelerates your research:
 * ViFiT: Reconstructing Vision Trajectories from IMU and Wi-Fi Fine Time Measurements, MobiCom ISACom Workshop 2023. [[paper](https://dl.acm.org/doi/10.1145/3615984.3616503)] [[code](https://github.com/bryanbocao/vifit)]
 
 
-# 📚 2024 Conference and Journal Papers
-## Conference Papers 2024
-* BAT: Behavior-Aware Human-Like Trajectory Prediction for Autonomous Driving, AAAI 2024. [[paper](https://arxiv.org/pdf/2312.06371.pdf)] [[code](https://github.com/Petrichor625/BATraj-Behavior-aware-Model)]
-* NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario, AAAI 2024. [[paper](https://arxiv.org/pdf/2305.14836.pdf)] [[code](https://github.com/qiantianwen/NuScenes-QA)]
-* Human Observation-Inspired Trajectory Prediction for Autonomous Driving in Mixed-Autonomy Traffic Environments, ICRA 2024. [[paper](https://arxiv.org/abs/2402.04318)]
-* Can Language Beat Numerical Regression? Language-Based Multimodal Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18447)] [[code](https://github.com/InhwanBae/LMTrajectory)]
-* SingularTrajectory: Universal Trajectory Predictor using Diffusion Model, CVPR 2024. [[paper](https://arxiv.org/abs/2403.18452)] [[code](https://github.com/InhwanBae/SingularTrajectory)]
-* Producing and Leveraging Online Map Uncertainty in Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.16439.pdf)] [[code](https://github.com/alfredgu001324/MapUncertaintyPrediction)]
-* HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.06351.pdf)] [[code](https://github.com/XiaolongTang23/HPNet)]
-* Adapting to Length Shift: FlexiLength Network for Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.00742.pdf)]
-* T4P: Test-Time Training of Trajectory Prediction via Masked Autoencoder and Actor-specific Token Memory, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.10052.pdf)] [[code](https://github.com/daeheepark/T4P)]
-* SocialCircle: Learning the Angle-based Social Interaction Representation for Pedestrian Trajectory Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2310.05370.pdf)] [[code](https://github.com/cocoon2wong/SocialCircle)]
-* Adversarial Backdoor Attack by Naturalistic Data Poisoning on Trajectory Prediction in Autonomous Driving, CVPR 2024. [[paper](https://arxiv.org/pdf/2306.15755.pdf)]
-* CaDeT: a Causal Disentanglement Approach for Robust Trajectory Prediction in Autonomous Driving, CVPR 2024.
-* Higher-order Relational Reasoning for Pedestrian Trajectory Prediction, CVPR 2024.
-* Density-Adaptive Model Based on Motif Matrix for Multi-Agent Trajectory Prediction, CVPR 2024.
-* OOSTraj: Out-of-Sight Trajectory Prediction With Vision-Positioning Denoising, CVPR 2024. [[paper](https://arxiv.org/pdf/2404.02227.pdf)] [[code](https://github.com/Hai-chao-Zhang/OOSTraj)]
-* SmartRefine: A Scenario-Adaptive Refinement Framework for Efficient Motion Prediction, CVPR 2024. [[paper](https://arxiv.org/pdf/2403.11492)] [[code](https://github.com/opendilab/SmartRefine)]
-* MFTraj: Map-Free, Behavior-Driven Trajectory Prediction for Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.01266)]
-* Characterized Diffusion and Spatial-Temporal Interaction Network for Trajectory Prediction in Autonomous Driving, IJCAI 2024. [[paper](https://arxiv.org/pdf/2405.02145)]
-* A Cognitive-Driven Trajectory Prediction Model for Autonomous Driving in Mixed Autonomy Environment, IJCAI 2024. [[paper](https://arxiv.org/pdf/2404.17520)]
-* Physics-Informed Trajectory Prediction for Autonomous Driving under Missing Observation, IJCAI 2024. [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4809575 )]
-* Exploring Large Language Models for Trajectory Prediction: A Technical Perspective, ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024). [[paper](https://dl.acm.org/doi/pdf/10.1145/3610978.3640625)]
-* SpectrumNet: Spectrum-Based Trajectory Encode Neural Network for Pedestrian Trajectory Prediction, IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2024). [[paper](https://ieeexplore.ieee.org/abstract/document/10446706)]
-* MapFlow: Multi-Agent Pedestrian Trajectory Prediction Using Normalizing Flow, ICASSP 2024. [[paper](https://ieeexplore.ieee.org/abstract/document/10448062)]
-## Journal Papers 2024
-* SMEMO: Social Memory for Trajectory Forecasting, TPAMI. [[paper](https://arxiv.org/pdf/2203.12446.pdf)]
-* A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving, TIV. [[paper](https://arxiv.org/abs/2402.19251)]
-* EMSIN: Enhanced Multi-Stream Interaction Network for Vehicle Trajectory Prediction, IEEE Transactions on Fuzzy Systems. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10418557)]
-* Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction, TIV. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10415371)]
-* Context-Aware Timewise VAEs for Real-Time Vehicle Trajectory Prediction, RAL. [[paper](https://arxiv.org/pdf/2302.10873.pdf)] [[code](https://github.com/xupei0610/ContextVAE)]
-* Learning Autoencoder Diffusion Models of Pedestrian Group Relationships for Multimodal Trajectory Prediction, IEEE Transactions on Instrumentation and Measurement (TIM). [[paper](https://ieeexplore.ieee.org/abstract/document/10466609)]
-* DSTCNN: Deformable Spatial-Temporal Convolutional Neural Network for Pedestrian Trajectory Prediction, Information Sciences. [[paper](https://www.sciencedirect.com/science/article/pii/S0020025524003682)]
-## Others 2024
-* Controllable Safety-Critical Closed-loop Traffic Simulation via Guided Diffusion, arXiv preprint arXiv:2401.00391, 2024. [[paper](https://arxiv.org/pdf/2401.00391.pdf)] [[website](https://safe-sim.github.io/)]
-* Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities, arXiv preprint arXiv:2401.08045, 2024. [[paper](https://arxiv.org/pdf/2401.08045.pdf)] [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
-* Intention-aware Denoising Diffusion Model for Trajectory Prediction, arXiv preprint arXiv:2403.09190, 2024. [[paper](https://arxiv.org/pdf/2403.09190.pdf)]
-* LG-Traj: LLM Guided Pedestrian Trajectory Prediction, arXiv preprint arXiv:2403.08032, 2024. [[paper](https://arxiv.org/pdf/2403.08032.pdf)]
-* Traj-LLM: A New Exploration for Empowering Trajectory Prediction with Pre-trained Large Language Models, arXiv preprint arXiv:2405.04909, 2024. [[paper](https://arxiv.org/pdf/2405.04909)]
-* UniTraj: A Unified Framework for Scalable Vehicle Trajectory Prediction, arXiv preprint arXiv:2403.15098, 2024. [[paper](https://arxiv.org/pdf/2403.15098.pdf)] [[code](https://github.com/vita-epfl/UniTraj)]
-* Versatile Scene-Consistent Traffic Scenario Generation as Optimization with Diffusion, arXiv preprint arXiv:2404.02524, 2024. [[paper](https://arxiv.org/pdf/2404.02524.pdf)] [[code](https://sites.google.com/view/versatile-behavior-diffusion)]
-* ControlTraj: Controllable Trajectory Generation with Topology-Constrained Diffusion Model, arXiv preprint arXiv:2404.15380, 2024. [[paper](https://arxiv.org/pdf/2404.15380)]
-* Diffusion-Based Environment-Aware Trajectory Prediction, arXiv preprint arXiv:2403.11643, 2024. [[paper](https://arxiv.org/abs/2403.11643)]
-* A Preprocessing and Evaluation Toolbox for Trajectory Prediction Research on the Drone Datasets, arXiv preprint arXiv:2405.00604, 2024. [[paper](https://arxiv.org/abs/2405.00604)] [[code](https://github.com/westny/dronalize)]
-* BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction, arXiv preprint arXiv:2405.17372, 2024. [[paper](https://arxiv.org/pdf/2405.17372)]
-* Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability, arXiv preprint arXiv:2405.17398, 2024. [[paper](https://arxiv.org/pdf/2405.17398)] [[code](https://github.com/OpenDriveLab/Vista)]
-* UrbanGPT: Spatio-Temporal Large Language Models, arXiv preprint arXiv:2403.00813, 2024. [[paper](https://arxiv.org/pdf/2403.00813)] [[code](https://github.com/HKUDS/UrbanGPT)]
-* Continuously Learning, Adapting, and, Improving: A Dual-Process Approach to Autonomous Driving, arXiv preprint arXiv:2405.15324, 2024. [[paper](https://arxiv.org/pdf/2405.15324)] [[code](https://github.com/PJLab-ADG/LeapAD)]
-* DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models, arXiv preprint arXiv:2402.12289, 2024. [[paper](https://arxiv.org/pdf/2402.12289)] [[website](https://tsinghua-mars-lab.github.io/DriveVLM/)]
-* NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking, arXiv preprint arXiv:2406.15349, 2024. [[paper](https://arxiv.org/pdf/2406.15349)] [[code](https://github.com/autonomousvision/navsim)]
-* SimGen: Simulator-conditioned Driving Scene Generation, arXiv preprint arXiv:2406.09386, 2024. [[paper](https://arxiv.org/pdf/2406.09386)] [[code](https://metadriverse.github.io/simgen/)]
-* GenAD: Generative End-to-End Autonomous Driving, arXiv preprint arXiv:2402.11502, 2024. [[paper](https://arxiv.org/pdf/2402.11502)] [[code](https://github.com/wzzheng/GenAD)]
 
 
 # 📚 Related Review Papers
