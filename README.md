@@ -1,43 +1,5 @@
 # Deep learning and machine learning techniques for head pose estimation: a survey
-![Version](https://img.shields.io/badge/Version-1.0-ff69b4.svg) ![LastUpdated](https://img.shields.io/badge/LastUpdated-2024.05-lightgrey.svg) ![Topic](https://img.shields.io/badge/Topic-trajectory--prediction-yellow.svg?logo=github) ![Awesome](https://awesome.re/badge.svg) ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF) ![Language](https://img.shields.io/badge/-Python-F37626?style=flat-square&logo=python&logoColor=FFFFFF) ![Framework](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=FFFFFF) ![](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
 
-
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/8189c63cf7894232e1573be4c217653.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/ef4e2adbba8af28f8850b5fa2eab76f.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/4e785d2f0c1a1601d1dc25073463af2.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/59c497e2e43acb2c0ff6a33244b19a6.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/5a250b453aca04ab3402b4d6279b215.png)
-![image](https://github.com/Psychic-DL/Awesome-Traffic-Agent-Trajectory-Prediction/blob/main/image/172b1087122e79c8a744c7acc9bea62.png)
-
-# 🤝 Contributions
-
-This is a list of the latest research materials (datasets, papers, and codes) related to traffic agent trajectory prediction. Continuously updated, welcome to pay attention!
-
-**Maintainers: Chaoneng Li (Lanzhou Jiaotong University)           Emails: xdchaonengli@163.com**
-
-Please feel free to pull requests to add new resources or send emails to us for questions, discussions, and collaborations. **We would like to connect more students, teachers, and bigwigs in the field of multi-agent trajectory prediction, and if you would like to do the same, you can add me on WeChat (CN15691969157). Let's create the Trajectory Prediction Community Group together!**
-
-# 🧐 Citation
-Please consider citing our papers if this repository accelerates your research:
-```
-@inproceedings{li2022fidelity,
-  title={Fidelity Evaluation of Virtual Traffic Based on Anomalous Trajectory Detection},
-  author={Li, Chaoneng and Chao, Qianwen and Feng, Guanwen and Wang, Qiongyan and Liu, Pengfei and Li, Yunan and Miao, Qiguang},
-  booktitle={2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
-  pages={8157--8164},
-  year={2022},
-  organization={IEEE}
-}
-@article{li2024difftad,
-  title={DiffTAD: Denoising diffusion probabilistic models for vehicle trajectory anomaly detection},
-  author={Li, Chaoneng and Feng, Guanwen and Li, Yunan and Liu, Ruyi and Miao, Qiguang and Chang, Liang},
-  journal={Knowledge-Based Systems},
-  volume={286},
-  pages={111387},
-  year={2024},
-  publisher={Elsevier}
-}
-```
 ******
 
 # 📜 Table of Contents
