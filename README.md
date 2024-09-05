@@ -1,3 +1,5 @@
+
+******
 # 📜 Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [**📚 Journal Papers**](#-Journal-Papers)
@@ -42,8 +44,10 @@
 - [**🌟 Star History**](#-star-history)
 	<!-- /TOC -->
 
+******
+
 **Note:** All papers, datasets, and their links will be here when our manuscript gets accepted.
-# Journal Papers
+# 📚 Journal Papers
 
 **list (2024)**
 
