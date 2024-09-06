@@ -117,8 +117,8 @@
 # 📚 2022 Conference and Journal Papers
 
 ## Journal Papers 2022
-* Head pose estimation: an extensive survey on recent techniques and applications. Pattern Recogn 127:108591. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000723)] 
 * Online boosting-based target identification among similar appearance for person-following robots. Sensors 2 2(21):8422. [[paper](https://www.mdpi.com/1424-8220/22/21/8422)]
+* Head pose estimation: an extensive survey on recent techniques and applications. Pattern Recogn 127:108591. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000723)] 
 * Cross-domain multitask model for head detection and facial attribute estimation. IEEE Access 10:54703–54712. [[paper](https://ieeexplore.ieee.org/abstract/document/9779140)]
 * Gradient boosting regression for faster partitioned iterated function systems-based head pose estimation. IET Biometr 11(4):279–288. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bme2.12061)]
 * Quaternion to euler angles conversion: A direct, general and computationally efficient method. PLoS ONE 17(11):0276302. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276302)]  
