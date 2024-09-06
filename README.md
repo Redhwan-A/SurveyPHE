@@ -339,17 +339,30 @@
 
 
 ## Journal Papers 2014 
+* Robust semi-automatic head pose labeling for real-world face video sequences. Multimed Tools Ap pl 70:495–523. [[paper](https://link.springer.com/article/10.1007/s11042-012-1352-1)]
+  
+## Journal Papers 2013  
+* Localizing parts of faces using a consensus of exemplars. IEEE Trans Pattern Anal Mach Intell 35(12):2930–2940. [[paper](https://ieeexplore.ieee.org/abstract/document/6412675)]
+* A comparative study of face landmarking techniques. EURASIP J Image Video Process 2013 (1):1–27. [[paper](https://link.springer.com/article/10.1186/1687-5281-2013-13)]
+* Random forests for real time 3d face analysis. Int J Comput Vision 101:437–4 58. [[paper](https://link.springer.com/article/10.1007/s11263-012-0549-0)]
 
-* Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
-* Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
-* Congested traffic states in empirical observations and microscopic simulations, Physical review E 2000. [[paper](https://arxiv.org/pdf/cond-mat/0002177.pdf)]
-* A methodology for automated trajectory prediction analysis, AIAA Guidance, Navigation, and Control Conference and Exhibit 2004. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.76.2942&rep=rep1&type=pdf)]
-* Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
-* New Algorithms for Aircraft Intent Inference and Trajectory Prediction, Journal of guidance, control, and dynamics 2007. [[paper](https://sci-hub.hkvisa.net/10.2514/1.26750)]
-* Reciprocal Velocity Obstacles for Real-Time Multi-Agent Navigation, ICRA 2008. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9395&rep=rep1&type=pdf)]
-* You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
-* Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
-* People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+## Journal Papers 2012  
+* Human-centric design personalization of 3d glasses frame in markerless augmented reality. Adv E ng Inform 26(1):35–45. [[paper](https://www.sciencedirect.com/science/article/pii/S1474034611000565)]
+## Journal Papers 2011    
+* The nimh child emotional faces picture set (nimh-che fs): a new set of children’s facial emotion stimuli. Int J Methods Psychiatr Res 20(3):145–156. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.343)]
+## Journal Papers 2008   
+* Head pose estimation in computer vision: a survey. IEEE Trans Pattern Anal Mach Intell 31(4): 607–626. [[paper](https://ieeexplore.ieee.org/abstract/document/4497208)]
+## Journal Papers 2007
+* The cas-peal large-scale chinese face database and baseline evaluations. IEEE Trans Syst Man Cybern Part A 38(1):149–161. [[paper](https://ieeexplore.ieee.org/abstract/document/4404053)]
+
+ ## Journal Papers 2003 
+* Complete solution classification for the perspective-three-point problem. IEEE Trans Pattern Anal Mach Intell 25(8):930–943. [[paper](https://ieeexplore.ieee.org/abstract/document/1217599)]
+
+## Journal Papers 2001
+* Rotations and rotation matrices. Acta Crystallogr D 57(10):1355–1359. [[paper](https://journals.iucr.org/d/issues/2001/10/00/ba5006/ba5006.pdf)]
+## Journal Papers 2000
+* Fast, reliable head tracking under varying illumination: an approach based on registration of texture-mapped 3d models. IEEE Trans Pattern Anal Mach Intell 22(4):322–336. [[paper](https://ieeexplore.ieee.org/abstract/document/845375)]
+* The feret evaluation methodology for face-recognition algorithms. IEEE Trans Pattern A nal Mach Intell 22(10):1090–1104. [[paper](https://ieeexplore.ieee.org/abstract/document/879790)]
   
 ## Conference Papers
 * Poseidon: Face-from-depth for driver pose estimation. In: Proceedings of the IEE E Conference on Computer Vision and Pattern Recognition, pp 4661–4670. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Borghi_POSEidon_Face-From-Depth_for_CVPR_2017_paper.html)]  
@@ -366,19 +379,37 @@
 * Wider face: A face detection benchmark. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 5525–5533. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)]  
 * Face alignment across large poses: A 3d solution. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 146–155. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
 
-## Conference Papers 2015   
-* non
-
 ## Conference Papers 2014  
+* Eyediap: A database for the development and evaluation of gaze estimation algorithms from rgb and rgb-d cameras. In: Proceedings of the symposium on Eye Tracking Research and Applications, pp 255–258. ACM, Safety Harb or, Florida, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/2578153.2578190)]  
+* Stereo vision-based driver head pose estimation. In: 2014 IEEE Intelligent Vehicles Symposium Proceedings, pp 253–260. IEEE, Dearborn, MI, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/6856578)]
+* One millisecond face alignment with an ensemble of regression trees. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 1867–1874. IEEE, Columbus, OH, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2014/html/Kazemi_One_Millisecond_Face_2014_CVPR_paper.html)]  
+* Robust real-time extreme head pose estimation. In: 2014 22nd International Conference on Pattern Recognition, pp 2263–2268. IEEE, Stockholm, Sweden. [[paper](https://ieeexplore.ieee.org/abstract/document/6977105)]
+## Conference Papers 2013  
+* Head pose and movement analysis as an indicator of depression. In: 2013 Humaine Association Conference on Affective Computing and Intelligent Interaction, pp 283–288. IEEE, Geneva, Switzerland. [[paper](https://ieeexplore.ieee.org/abstract/document/6681444)]
+* Evaluating performance benefits of head tracking in modern video games. In: Proceedings of the 1st symposium on spatial user interaction, pp 53–60. ACM, Los Angeles California USA. [[paper](https://dl.acm.org/doi/abs/10.1145/2491367.2491376)]
+* 300 faces in-the-wild challenge: The first facial landmark localization challenge. In: Proceedings of the IEEE International Conference on Computer Vision Workshops, pp 397–403. IEEE, Sydney, NSW, Australia. [[paper](https://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W11/html/Sagonas_300_Faces_in-the-Wild_2013_ICCV_paper.html)]
+* A semi-automatic methodology for facial landmark annotation. In: Proceeding s of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp 896–903. IEEE, Portland, OR, USA. [[paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2013/W16/html/Sagonas_A_Semi-automatic_Methodology_2013_CVPR_paper.html)]
+
+## Conference Papers 2012
+* 3d constrained local model for rigid and non-rigid facial tracking. In: 2012 IEEE Conference on Computer Vision and Pattern Recognition, pp 2610–2617. IEEE, Providence, RI, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/6247980)]
+* Real time 3d head pose estimation: Recent achievements and future challenges. 2012 5th International Symposium on Communications. Control and Signal Processing. IEEE, Rome, Italy, pp 1–4. [[paper](https://ieeexplore.ieee.org/abstract/document/6217813)]
+* Interactive facial feature localization. Computer Vision-ECCV 2012: 12th European Conference on Computer Vision. Florence, Italy, October 7–13, 2012, Proceedings, Part III 12. Springer, Florence, Italy, pp 679–692. [[paper](https://link.springer.com/chapter/10.1007/978-3-642-33712-3_49)]
+* Face detection, pose estimation, and landmark localization in the wild. In: 2012 IEEE Conference on Computer Vision and Pattern Recognition, pp 2879–2886. IEEE, Providence, RI, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/6248014)]
+
+## Conference Papers 2011
+* Real time head pose estimation with random regression forests. In: CVPR 2011, pp 617–624. IEEE, Colorado Springs, CO, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/5995458)]
+* Annotated facial landmarks in the wild: A large-scale, real-world database for facial landmark localization. In: 2011 IEEE International Conference on Computer Vision Workshops (ICCV Workshops), pp 2144–2151. IEE E, Barcelona, Spain. [[paper](https://ieeexplore.ieee.org/abstract/document/6130513)]
   
-## Others
-* AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
+## Conference Papers 2008
+* Bosphorus database for 3d face analysis. In: Biometrics and Identity Management: First European Workshop, BIOID 2008, May 7-9, 2008. Revised Selected Papers 1, pp 47–56. Springe r, Roskilde, Denmark. [[paper](https://link.springer.com/chapter/10.1007/978-3-540-89991-4_6)]
 * Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
+## Conference Papers 2004
+* Estimating face orientation from robust detection of salient facial features. In: Proceedings of Pointing 2004, ICPR, International Workshop on Visual Observation of Deictic Gestures, Cambridge, UK. [[paper](https://cir.nii.ac.jp/crid/1571135651216418048)]
+  
+## Conference Papers 1999
+* The extended m2vts database. In: Second International Conference on Audio and Video-based Biometric Person Authentication, vol 964, pp 965–966. Citeseer, Washington D.C, USA. [[paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b62628ac06bbac998a3ab825324a41a11bc3a988)]
 
 
-
-* AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
-* Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
 
 
 # 📚 Traditional Methods
