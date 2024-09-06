@@ -33,6 +33,10 @@
 	- [Journal Papers](#journal-papers)
    	- [Conference Papers](#conference-papers)
 	- [Others](#others)
+- [**📚 Traditional Methods**](#-traditional-methods)
+  	- [Journal Papers](#journal-paperst)
+   	- [Conference Papers](#conference-paperst)
+	- [Others](#otherst)
 - [**📚 Related Review Papers**](#-related-review-papers)
 - [**📚 Datasets**](#-datasets)
   	- [Reviews about Datasets](#reviews-about-datasets)
@@ -42,7 +46,7 @@
 		- [Aircraft](#aircraft)
 		- [Ship](#ship)
 		- [Hurricane and Animal](#hurricane-and-animal)
-- [**📚 Traditional Methods**](#-traditional-methods)
+
 - [**🌹 Acknowledgments**](#-acknowledgments)
 - [**🌟 Star History**](#-star-history)
 	<!-- /TOC -->
@@ -314,6 +318,7 @@
 
 
 # 📚 Traditional Methods
+## Journal Papers
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
 * Congested traffic states in empirical observations and microscopic simulations, Physical review E 2000. [[paper](https://arxiv.org/pdf/cond-mat/0002177.pdf)]
@@ -324,12 +329,14 @@
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
 * People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+## Conference Papers
 * Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
 * Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]
 * Social force model with explicit collision prediction, Europhysics Letters 2011. [[paper](https://iopscience.iop.org/article/10.1209/0295-5075/93/68005/pdf)]
 * A Machine Learning Approach to Trajectory Prediction, AIAA Guidance, Navigation, and Control (GNC) Conference 2013. [[paper](https://sci-hub.hkvisa.net/10.2514/6.2013-4782)]
 * Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
+## Others
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
 * Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
 
