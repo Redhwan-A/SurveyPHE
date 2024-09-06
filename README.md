@@ -283,14 +283,7 @@
 ## Others 2019
 * Mediapipe: A framework for building perception pipelines. arXiv preprint. [[paper](https://arxiv.org/abs/1906.08172)]
 
-  
-* Learning to Infer Relations for Future Trajectory Forecast, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Choi_Learning_to_Infer_Relations_for_Future_Trajectory_Forecast_CVPRW_2019_paper.pdf)]
-* Social Ways: Learning Multi-Modal Distributions of Pedestrian Trajectories, CVPR Workshops 2019. [[paper](https://openaccess.thecvf.com/content_CVPRW_2019/papers/Precognition/Amirian_Social_Ways_Learning_Multi-Modal_Distributions_of_Pedestrian_Trajectories_With_GANs_CVPRW_2019_paper.pdf)] [[code](https://github.com/crowdbotp/socialways)]
-* Social and Scene-Aware Trajectory Prediction in Crowded Spaces, ICCV Workshops 2019. [[paper](https://arxiv.org/pdf/1909.08840.pdf)] [[code](https://github.com/Oghma/sns-lstm/)]
-* Probabilistic Trajectory Prediction for Autonomous Vehicles with Attentive Recurrent Neural Process, arXiv preprint arXiv:1910.08102, 2019. [[paper](https://arxiv.org/pdf/1910.08102.pdf)]
-* Stochastic Trajectory Prediction with Social Graph Network, arXiv preprint arXiv:1907.10233, 2019. [[paper](https://arxiv.org/pdf/1907.10233.pdf)]
-
-
+ 
 # 📚 Traditional Methods
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
