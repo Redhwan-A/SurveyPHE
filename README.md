@@ -116,8 +116,7 @@
 
 # 📚 2022 Conference and Journal Papers
 
-## Journal Papers 2022
-* Online boosting-based target identification among similar appearance for person-following robots. Sensors 2 2(21):8422. [[paper](https://www.mdpi.com/1424-8220/22/21/8422)]
+## Journal Papers 2022* 
 * Head pose estimation: an extensive survey on recent techniques and applications. Pattern Recogn 127:108591. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000723)] 
 * Cross-domain multitask model for head detection and facial attribute estimation. IEEE Access 10:54703–54712. [[paper](https://ieeexplore.ieee.org/abstract/document/9779140)]
 * Gradient boosting regression for faster partitioned iterated function systems-based head pose estimation. IET Biometr 11(4):279–288. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bme2.12061)]
@@ -126,7 +125,8 @@
 * An integrated framework for multi-state driver monitoring using heterogeneous loss and attention-based feature decoupling. Sensors 22(19):7415. [[paper](https://www.mdpi.com/1424-8220/22/19/7415)]   
 * Estimation of driver’s gaze region from head position and orientation using probabilistic confidence regions. IEEE Trans Intell Vehicles 8(1):59–72. [[paper](https://ieeexplore.ieee.org/abstract/document/9672737)]
 * Agcnns: Attention-guided convolutional neural networks for infrared head pose estimation in assisted driving system. Infrared Phys Tachnol 123:104146. [[paper](https://www.sciencedirect.com/science/article/pii/S135044952200127X)]
-* Accurate head pose estimation using image rectification and a lightweight convolutional neural network. IEEE Trans Multimed 25:2239–2251. [[paper](https://ieeexplore.ieee.org/abstract/document/9693249)]  
+* Accurate head pose estimation using image rectification and a lightweight convolutional neural network. IEEE Trans Multimed 25:2239–2251. [[paper](https://ieeexplore.ieee.org/abstract/document/9693249)]
+* Online boosting-based target identification among similar appearance for person-following robots. Sensors 2 2(21):8422. [[paper](https://www.mdpi.com/1424-8220/22/21/8422)]  
 * Arhpe: asymmetric relation-aware representation learning for head pose estimation in industrial human-computer interaction. IEEE Trans Ind Inf 18(10):7107–7117. [[paper](https://ieeexplore.ieee.org/abstract/document/9684680)]
 * Gmdl: toward precise head pose estimation via gaussian mixed distribution learning for students’ attention understanding. Infrared Phys Technol 122:104099. [[paper](https://www.sciencedirect.com/science/article/pii/S1350449522000809)]
 * Head pose healthiness prediction using a novel image quality based stacked autoencoder. Dig Signal Process 130:103696. [[paper](https://www.sciencedirect.com/science/article/pii/S105120042200313X)]   
@@ -164,8 +164,7 @@
 
 
 # 📚 2021 Conference and Journal Papers
-## Journal Papers 2021* 
-* Target recovery for robust deep learning-based person following in mobile robots: online trajectory prediction. Appl Sci 11(9):4165. [[paper](https://www.mdpi.com/2076-3417/11/9/4165)] 
+## Journal Papers 2021* * 
 * Learning 3d head pose from synthetic data: a semi-supervised approach. IE EE Access 9:37557–37573. [[paper](https://ieeexplore.ieee.org/abstract/document/9369299)]
 * Impact of facial landmark localization on facial expression recognition. IEEE Trans Affect Comput 14(2):1267–1279. [[paper](https://ieeexplore.ieee.org/abstract/document/9599570)]
 * Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)]  
@@ -175,6 +174,7 @@
 * Robust and efficient forward, differential, and inverse kinematics using dual quaternions. Int J Robot Res 40(10–11):1 087–1105. [[paper](https://journals.sagepub.com/doi/full/10.1177/0278364920931948)]  
 * Vision-based robotic grasping from object localization, object pose estimation to grasp estimation for parallel grippers: a review. Artif Intell Rev 54(3):1677–1734. [[paper](https://link.springer.com/article/10.1007/s10462-020-09888-5)]  
 * Time integration of rigid bodies modelled with three rotation parameters. Multibody SysDyn 53:1–34. [[paper](https://link.springer.com/article/10.1007/s11044-021-09778-w)]
+* Target recovery for robust deep learning-based person following in mobile robots: online trajectory prediction. Appl Sci 11(9):4165. [[paper](https://www.mdpi.com/2076-3417/11/9/4165)] 
 * Temporal head pose estimation from point cloud in naturalistic driving conditions. IEEE Trans Intell Transp Syst 23(7):8063–8076. [[paper](https://ieeexplore.ieee.org/abstract/document/9425023)]  
 * Deep convolutional neural network-based bernoulli heatmap for head pose estimation. Neuroco mputing 436:198–209. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231221000692)]  
 * Detection of malpractice in e-exams by head pose and gaze estimation. Int J Emerg Technol Learn 16(8):47. [[paper](https://pdfs.semanticscholar.org/6958/2f42a8c34ab94d1e102b3785f21d4c755e6e.pdf)]  
