@@ -322,6 +322,22 @@
 
 
 ## Journal Papers
+* Robust head-pose estimation based on a partially-latent mixture of linear regressions. IEEE Trans Image Process 26(3):1428–1440. [[paper](https://ieeexplore.ieee.org/abstract/document/7819497)]  
+* Eye-tracking technology and the dynamics of natural gaze behavior in sports: a systematic review of 40 years of research. Front Psychol 8:1845. [[paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.01845/full?ref=wingingitinmotown.com)]  
+* Hyperface: a deep multi-task learning framework for face detection, landmark localization, pose estimation, and gender recognition. IEEE Trans Pattern Anal Mach Intell 41(1):121–135. [[paper](https://ieeexplore.ieee.org/abstract/document/8170321)]  
+* Face alignment in full pose range: a 3d total solution. IEEE Trans Pattern Anal Mach Intell 41(1):78–92. [[paper](https://ieeexplore.ieee.org/abstract/document/8122025)]
+
+## Journal Papers 2016
+* Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
+* New Algorithms for Aircraft Intent Inference and Trajectory Prediction, Journal of guidance, control, and dynamics 2007. [[paper](https://sci-hub.hkvisa.net/10.2514/1.26750)]
+* Reciprocal Velocity Obstacles for Real-Time Multi-Agent Navigation, ICRA 2008. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9395&rep=rep1&type=pdf)]
+* You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
+* Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
+* People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+
+
+
+
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
 * Congested traffic states in empirical observations and microscopic simulations, Physical review E 2000. [[paper](https://arxiv.org/pdf/cond-mat/0002177.pdf)]
@@ -332,14 +348,31 @@
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
 * People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+  
 ## Conference Papers
-* Unfreezing the robot: Navigation in dense, interacting crowds, IROS 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5654369)]
-* Who are you with and where are you going?, CVPR 2011. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5995468)]
+* Poseidon: Face-from-depth for driver pose estimation. In: Proceedings of the IEE E Conference on Computer Vision and Pattern Recognition, pp 4661–4670. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Borghi_POSEidon_Face-From-Depth_for_CVPR_2017_paper.html)]  
+* How far are we from solving the 2d & 3d face alignment problem?(and a dataset of 230,000 3d facial la ndmarks). In: Proceedings of the IEEE International Conference on Computer Vision, pp 1021–1030. IEEE, Venice, Italy. [[paper](https://openaccess.thecvf.com/content_iccv_2017/html/Bulat_How_Far_Are_ICCV_2017_paper.html)]  
+* Realtime multi-person 2d pose estimation using part affinity fields. In: Proceedings of the IEE E Conference on Computer Vision and Pattern Recognition, pp 7291–7299. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Cao_Realtime_Multi-Person_2D_CVPR_2017_paper.html)]  
+* Detecting probable cheating during online assessments based on time delay and head pose. High Educ Res Dev 36(6):1123–1137. [[paper](https://www.tandfonline.com/doi/full/10.1080/07294360.2017.1303456)]  
+* Dynamic facial analysis: From bayesian filtering to recurrent neural network. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 1548–1557. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Gu_Dynamic_Facial_Analysis_CVPR_2017_paper.html)]  
+* Kepler: Keypoint and pose estimation of unconstrained faces by learning efficient h-cnn regressors. In: 2017 12th Ieee International Conference on Automatic Face & Gesture Recognition (fg 2017), pp 258–265. IEEE, Washington, DC, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/7961750)]
+* Joint challenge on dominant and complementary emotion recognition using micro emotion features and head-pose estimation: Databases. In: 2017 12th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2017), pp 809–813. IEEE, Washington, DC, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/7961825)]  
+* Driveahead-a large-scale driver head pose dataset. In: Proceedings of the IEE E Conference on Computer Vision and Pattern Recognition Workshops, pp 1–10. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Schwarz_DriveAHead_-_A_CVPR_2017_paper.html)]
+
+## Conference Papers 2016
+  
 * Social force model with explicit collision prediction, Europhysics Letters 2011. [[paper](https://iopscience.iop.org/article/10.1209/0295-5075/93/68005/pdf)]
 * A Machine Learning Approach to Trajectory Prediction, AIAA Guidance, Navigation, and Control (GNC) Conference 2013. [[paper](https://sci-hub.hkvisa.net/10.2514/6.2013-4782)]
 * Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
+
+  
 ## Others
+* AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
+* Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
+
+
+
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
 * Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
 
