@@ -170,10 +170,11 @@
 * Impact of facial landmark localization on facial expression recognition. IEEE Trans Affect Comput 14(2):1267–1279. [[paper](https://ieeexplore.ieee.org/abstract/document/9599570)]
 * Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)]  
 * Pifs scheme for head pose estimation aimed at faster face recognition. IEEE Trans Biome tr Behav Identity Sci 4(2):173–184. [[paper](https://ieeexplore.ieee.org/abstract/document/9585068)]
-* Fashe: A fractal based strategy for head pose estimation. IEEE Trans Image Process 30:3 192–3203. [[paper](https://ieeexplore.ieee.org/abstract/document/9360493)]
+* Fashe: A fractal based strategy for head pose estimation. IEEE Trans Image Process 30:3 192–3203. [[paper](https://ieeexplore.ieee.org/abstract/document/9360493)]  
+* Trfh: towards real-time face detection and head pose estimation. Pattern Anal Appl 24:1745–1755. [[paper](https://link.springer.com/article/10.1007/s10044-021-01026-3)]  
+* Robust and efficient forward, differential, and inverse kinematics using dual quaternions. Int J Robot Res 40(10–11):1 087–1105. [[paper](https://journals.sagepub.com/doi/full/10.1177/0278364920931948)]
+
   
-* TrajGAIL: Generating urban vehicle trajectories using generative adversarial imitation learning, Transportation Research Part C. [[paper](https://reader.elsevier.com/reader/sd/pii/S0968090X21001121?token=3DEACAF2AD919E99B3331E74F747B61A0EAC2741E79B6F99F4F806155EB394F163D74F2F83806358BBD65911E107EF01&originRegion=us-east-1&originCreation=20220416040814)] [[code](https://github.com/benchoi93/TrajGAIL)]
-* Vehicle Trajectory Prediction Using Generative Adversarial Network With Temporal Logic Syntax Tree Features, IEEE ROBOTICS AND AUTOMATION LETTERS. [[paper](https://www.gilitschenski.org/igor/publications/202104-ral-logic_gan/ral21-logic_gan.pdf)]
 * Vehicle Trajectory Prediction Using LSTMs with Spatial-Temporal Attention Mechanisms, IEEE Intelligent Transportation Systems Magazine. [[paper](http://urdata.net/files/2020_VTP.pdf)] [[code](https://github.com/leilin-research/VTP)]
 * Long Short-Term Memory-Based Human-Driven Vehicle Longitudinal Trajectory Prediction in a Connected and Autonomous Vehicle Environment, Transportation Research Record. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0361198121993471)]
 * Temporal Pyramid Network with Spatial-Temporal Attention for Pedestrian Trajectory Prediction, IEEE Transactions on Network Science and Engineering. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9373939)]
@@ -203,10 +204,11 @@
 
 ## Conference Papers 2021
 * Face direction estimation based on mediapipe landmarks. In: 2021 7th International Conference on Contemporary Information Technology and Mathematics (ICCITM), pp 185–190. IEEE, Mosul, Iraq. [[paper](https://ieeexplore.ieee.org/abstract/document/9677878)]  
-* img2pose: Face alignment and detection via 6dof, face pose estimation. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 7617–7627. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.html)] [[code](https://github.com/vitoralbiero/img2pose)]
+* img2pose: Face alignment and detection via 6dof, face pose estimation. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 7617–7627. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Albiero_img2pose_Face_Alignment_and_Detection_via_6DoF_Face_Pose_Estimation_CVPR_2021_paper.html)] [[code](https://github.com/vitoralbiero/img2pose)]  
+* A vector-based representation to enhance head pose estimation. In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp 1188–1197. IEEE, Waikoloa, HI, USA. [[paper](https://openaccess.thecvf.com/content/WACV2021/html/Chu_A_Vector-Based_Representation_to_Enhance_Head_Pose_Estimation_WACV_2021_paper.html)]  [[code](https://github.com/anArkitek/TriNet_WACV2021)]  
+* Headposr: End-to-end trainable head pose estimation using transformer encoders. In: 2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021), pp 1–8. IEEE, Jodhpur, India. [[paper](https://ieeexplore.ieee.org/abstract/document/9667080)]
+
   
-* LibCity: An Open Library for Traffic Prediction, SIGSPATIAL 2021. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474717.3483923)] [[code](https://github.com/LibCity/Bigscity-LibCity)]
-* Predicting Vehicles Trajectories in Urban Scenarios with Transformer Networks and Augmented Information, IEEE Intelligent Vehicles Symposium (IV 2021). [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9575242)]
 * Social-STAGE: Spatio-Temporal Multi-Modal Future Trajectory Forecast, ICRA 2021. [[paper](https://arxiv.org/pdf/2011.04853.pdf)]
 * AVGCN: Trajectory Prediction using Graph Convolutional Networks Guided by Human Attention, ICRA 2021. [[paper](https://arxiv.org/pdf/2101.05682.pdf)]
 * Exploring Dynamic Context for Multi-path Trajectory Prediction, ICRA 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9562034)] [[code](https://github.com/wtliao/DCENet)]
