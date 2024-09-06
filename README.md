@@ -242,7 +242,7 @@
 
 
   
-## Conference Papers 2020* 
+## Conference Papers 2020 
 * A face recognition system for assistive robots. In: Proceedings of the 3rd International Conference on Applications of Intelligent Systems, pp 1–6. ACM, Las Palmas de Gran Canaria, Spain. [[paper](https://dl.acm.org/doi/abs/10.1145/3378184.3378225)]  
 * Gotcha-i: A multiview human videos dataset. Security in Computing and Communications: 7th International Symposium. SSCC 2019, Trivandrum, India, December 18–21, 2019, Revised Selected Papers. Springer, Springer, Singapore, pp 213–224 [[paper](https://link.springer.com/chapter/10.1007/978-981-15-4825-3_17)]  
 * Deep entwined learning head pose and face alignment inside an attentional cascade with doubly-con ditional fusion. In: 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp 192–198. IEEE, Buenos Aires, Argentina. [[paper](https://ieeexplore.ieee.org/abstract/document/9320262)]  
