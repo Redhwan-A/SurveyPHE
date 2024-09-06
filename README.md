@@ -172,7 +172,7 @@
 
 
 # 📚 2021 Conference and Journal Papers
-## Journal Papers 2021* * 
+## Journal Papers 2021  
 * Learning 3d head pose from synthetic data: a semi-supervised approach. IE EE Access 9:37557–37573. [[paper](https://ieeexplore.ieee.org/abstract/document/9369299)]
 * Impact of facial landmark localization on facial expression recognition. IEEE Trans Affect Comput 14(2):1267–1279. [[paper](https://ieeexplore.ieee.org/abstract/document/9599570)]
 * Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)]  
@@ -295,7 +295,7 @@
 
 
 # 📚 2018 Conference and Journal Papers
-## Journal Papers
+## Journal Papers 2018
 * Face-from-depth for head pose estimation on depth images. IEEE Trans Pattern Anal Mach Intell 42(3):596–609. [[paper](https://ieeexplore.ieee.org/document/8567956)]
 * Quatnet: Quaternion-based head pose estimation with multiregression loss. IEEE Trans Multimed 21(4):1035–1046. [[paper](https://ieeexplore.ieee.org/abstract/document/8444061)]
 * Headfusion: 360 head pose tracking combining 3d morphable model and 3d reconstruction. IEEE Trans Pattern Anal Mach Intell 40(11):2653–2667. [[paper](https://ieeexplore.ieee.org/abstract/document/8368264)]
@@ -304,7 +304,7 @@
 
 
   
-## Conference Papers
+## Conference Papers 2018
 * Openface 2.0: Facial behavior analysis toolkit. In: 2018 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018), pp 59–66. IEEE, Xi’an, China. [[paper](https://ieeexplore.ieee.org/document/8373812)]  
 * Vggface2: A dataset for recognising faces across pose and age. In: 2018 13th IEE E International Conference on Automatic Face & Gesture Recognition (FG 2018), pp 67–74. IEEE, Xi’an, China. [[paper](https://ieeexplore.ieee.org/abstract/document/8373813)]   
 * Fine-grained head pose estimation without keypoints. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp 2074–2083. IEEE, Salt Lake City, UT, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w41/html/Ruiz_Fine-Grained_Head_Pose_CVPR_2018_paper.html)]  
@@ -314,7 +314,7 @@
   
 
 
-## Others
+## Others 2018
 * non
 
 
