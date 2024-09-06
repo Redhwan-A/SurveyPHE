@@ -220,7 +220,7 @@
 
 # 📚 2020 Conference and Journal Papers
 ## Journal Papers 2020
-Head pose estimation by regression algorithm. Pattern Recogn Lett 140:179–185. [[paper](https://www.sciencedirect.com/science/article/pii/S0167865520303779)]
+* Head pose estimation by regression algorithm. Pattern Recogn Lett 140:179–185. [[paper](https://www.sciencedirect.com/science/article/pii/S0167865520303779)]
 * Web-shaped model for head pose estimation: an approach for best exemplar selection. IEEE Trans Image Process 29:5457–5468. [[paper](https://ieeexplore.ieee.org/abstract/document/9057523)]  
 * A novel eye center localization method for head poses with large rotations. IEEE Trans Image Process 30:136 9–1381. [[paper](https://ieeexplore.ieee.org/abstract/document/9298473)]  
 * Improving head pose estimation using two-stage ensembles with top-k regression. Image Vis Comput 93:103827. [[paper](https://www.sciencedirect.com/science/article/pii/S0262885619304202)]   
