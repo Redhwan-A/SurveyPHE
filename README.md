@@ -328,8 +328,10 @@
 * Face alignment in full pose range: a 3d total solution. IEEE Trans Pattern Anal Mach Intell 41(1):78–92. [[paper](https://ieeexplore.ieee.org/abstract/document/8122025)]
 
 ## Journal Papers 2016
-* Continuum crowds, ACM Transactions on Graphics (TOG 2006). [[paper](https://www.khoury.neu.edu/home/scooper/index_files/pub/treuille2006continuum.pdf)]
-* New Algorithms for Aircraft Intent Inference and Trajectory Prediction, Journal of guidance, control, and dynamics 2007. [[paper](https://sci-hub.hkvisa.net/10.2514/1.26750)]
+* A novel 2d/3d database with automatic face annotation for head tracking and pose estimation. Comput Vis Image Underst 148:201–210. [[paper](https://www.sciencedirect.com/science/article/pii/S1077314215000934)]  
+* Robust head pose estimation using dirichlet-tree distribution enhanced random forests. Neurocomputing 173:42–53. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231215010413)]
+
+## Journal Papers 2015  
 * Reciprocal Velocity Obstacles for Real-Time Multi-Agent Navigation, ICRA 2008. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9395&rep=rep1&type=pdf)]
 * You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
 * Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
@@ -359,11 +361,13 @@
 * Joint challenge on dominant and complementary emotion recognition using micro emotion features and head-pose estimation: Databases. In: 2017 12th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2017), pp 809–813. IEEE, Washington, DC, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/7961825)]  
 * Driveahead-a large-scale driver head pose dataset. In: Proceedings of the IEE E Conference on Computer Vision and Pattern Recognition Workshops, pp 1–10. IEEE, Honolulu, HI, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Schwarz_DriveAHead_-_A_CVPR_2017_paper.html)]
 
-## Conference Papers 2016
+## Conference Papers 2016  
+* Deep residual learning for image recognition. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 770–778. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)]  
+* Wider face: A face detection benchmark. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 5525–5533. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)]  
+* Face alignment across large poses: A 3d solution. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 146–155. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
+
+## Conference Papers 2015 
   
-* Social force model with explicit collision prediction, Europhysics Letters 2011. [[paper](https://iopscience.iop.org/article/10.1209/0295-5075/93/68005/pdf)]
-* A Machine Learning Approach to Trajectory Prediction, AIAA Guidance, Navigation, and Control (GNC) Conference 2013. [[paper](https://sci-hub.hkvisa.net/10.2514/6.2013-4782)]
-* Cyclist Social Force Model at Unsignalized Intersections With Heterogeneous Traffic, IEEE Transactions on Industrial Informatics 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536132)]
 * Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
 
   
