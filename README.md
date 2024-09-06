@@ -29,7 +29,11 @@
 	- [Journal Papers](#journal-papers-2019)
    	- [Conference Papers](#conference-papers-2019)
 	- [Others](#others-2019)
-- [**📚 2018 and Before Conference and Journal Papers**](#-2018-and-before-conference-and-journal-papers)	
+- [**📚 2018 Conference and Journal Papers**](#-2018-conference-and-journal-papers)	
+	- [Journal Papers](#journal-papers-2018)
+   	- [Conference Papers](#conference-papers-2018)
+	- [Others](#others-2018)
+- [**📚 2017 and Before Conference and Journal Papers**](#-2017-and-before-conference-and-journal-papers)	
 	- [Journal Papers](#journal-papers)
    	- [Conference Papers](#conference-papers)
 	- [Others](#others)
@@ -290,8 +294,7 @@
  
 
 
-
-# 📚 2018 and Before Conference and Journal Papers
+# 📚 2018 Conference and Journal Papers
 ## Journal Papers
 * Face-from-depth for head pose estimation on depth images. IEEE Trans Pattern Anal Mach Intell 42(3):596–609. [[paper](https://ieeexplore.ieee.org/document/8567956)]
 * Quatnet: Quaternion-based head pose estimation with multiregression loss. IEEE Trans Multimed 21(4):1035–1046. [[paper](https://ieeexplore.ieee.org/abstract/document/8444061)]
@@ -315,9 +318,9 @@
 * non
 
 
+# 📚 2017 and Before Conference and Journal Papers
 
 
-# 📚 Traditional Methods
 ## Journal Papers
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
@@ -341,6 +344,7 @@
 * Social force models for pedestrian traffic – state of the art, Transport reviews 2018. [[paper](https://www.researchgate.net/profile/Xu-Chen-67/publication/320872442_Social_force_models_for_pedestrian_traffic_-_state_of_the_art/links/5bce680b4585152b144eac39/Social-force-models-for-pedestrian-traffic-state-of-the-art.pdf)]
 
 
+# 📚 Traditional Methods
 
 # 📚 Related Review Papers
 * Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
