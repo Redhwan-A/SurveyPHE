@@ -332,13 +332,13 @@
 * Robust head pose estimation using dirichlet-tree distribution enhanced random forests. Neurocomputing 173:42–53. [[paper](https://www.sciencedirect.com/science/article/pii/S0925231215010413)]
 
 ## Journal Papers 2015  
-* Reciprocal Velocity Obstacles for Real-Time Multi-Agent Navigation, ICRA 2008. [[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.9395&rep=rep1&type=pdf)]
-* You’ll Never Walk Alone: Modeling Social Behavior for Multi-target Tracking, ICCV 2009. [[paper](http://vision.cse.psu.edu/courses/Tracking/vlpr12/PellegriniNeverWalkAlone.pdf)]
-* Real time trajectory prediction for collision risk estimation between vehicles, International Conference on Intelligent Computer Communication and Processing 2009. [[paper](https://hal.inria.fr/inria-00438624/document)]
-* People Tracking with Human Motion Predictions from Social Forces, ICRA 2010. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5509779)]
+* Improving the precision and speed of euler angles computation from low-cost rotation sensor data. Sensors 15(3):7016–7039. [[paper](https://www.mdpi.com/1424-8220/15/3/7016)]  
+* Panoptic studio: A massively multiview syste m for social motion capture. In: Proceedings of the IEEE International Conference on Computer Vision, pp 3334–3342. IEEE, Santiago, C hile. [[paper](https://openaccess.thecvf.com/content_iccv_2015/html/Joo_Panoptic_Studio_A_ICCV_2015_paper.html)]  
+* Smpl: a skinned multi-person linear model. ACM Trans Graph 34(6):1– 16. [[paper](https://dl.acm.org/doi/abs/10.1145/3596711.3596800)]  
+* Esa multibody simulator for spacecrafts’ ascent and landing in a microgravity environment. CEAS S pace J 7:335–346. [[paper](https://link.springer.com/article/10.1007/s12567-015-0081-5)]
 
 
-
+## Journal Papers 2014 
 
 * Social force model for pedestrian dynamics, Physical review E 1995. [[paper](https://arxiv.org/pdf/cond-mat/9805244.pdf?ref=https://githubhelp.com)]
 * Simulating dynamical features of escape panic, Nature 2000. [[paper](https://arxiv.org/pdf/cond-mat/0009448.pdf)] [[code](https://github.com/obisargoni/repastInterSim)]
@@ -366,10 +366,10 @@
 * Wider face: A face detection benchmark. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 5525–5533. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)]  
 * Face alignment across large poses: A 3d solution. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 146–155. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
 
-## Conference Papers 2015 
-  
-* Walking Ahead: The Headed Social Force Model, PLoS ONE 2017. [[paper](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0169734&type=printable)]
+## Conference Papers 2015   
+* non
 
+## Conference Papers 2014  
   
 ## Others
 * AutoRVO: Local Navigation with Dynamic Constraints in Dense Heterogeneous Traffic, arXiv preprint arXiv:1804.02915, 2018. [[paper](https://arxiv.org/pdf/1804.02915.pdf)]
