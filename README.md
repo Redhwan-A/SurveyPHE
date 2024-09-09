@@ -49,8 +49,8 @@
 ## Journal Papers 2024
 * Real-time 6dof full-range markerless head pose estimation. Expert Syst Appl 239:122293. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423027951)] [[code](https://github.com/Redhwan-A/6DoFHPE)]
 * Iot-enabled biometric security: enhancing smart car safety with depth-based head pose est imation. ACM Transactions on Multimedia Computing, Communications and Applications. [[paper](https://dl.acm.org/doi/full/10.1145/3639367)]
-* On the representation and methodology for wide and short range head pose estimation. Pattern Recogn 149:110263. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000141)]
-* Toward robust and unconstrained full range of rotation head pose estimation. IEEE Trans Image Process 33:2377–2387 [[paper](https://ieeexplore.ieee.org/abstract/document/10477888)]
+* On the representation and methodology for wide and short range head pose estimation. Pattern Recogn 149:110263. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000141)] [[code](https://github.com/pcr-upm/opal23_headpose)]
+* Toward robust and unconstrained full range of rotation head pose estimation. IEEE Trans Image Process 33:2377–2387 [[paper](https://ieeexplore.ieee.org/abstract/document/10477888)] [[part_code](https://github.com/thohemp/6DRepNet360)]
 * Fusion-competition framework of local topology and global texture for head pose estimation. Pattern Recogn 149:110285. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324000360)]
 * Deep-learning-based head pose estimation from a single rgb image and its application to medical crom measurement. Multimed Tools Appl 1:1–20 [[paper](https://link.springer.com/article/10.1007/s11042-024-18612-2)]
 * Head pose estimation with uncertainty and an application to dyadic interaction detection. Comput Vis Image Underst 243:103999 [[paper](https://www.sciencedirect.com/science/article/pii/S1077314224000808)]
@@ -76,9 +76,9 @@
 * Self-attention mechanism-based head pose estimation network with fusion of point cloud and image features. Sensors 23(24):9894 [[paper](https://www.mdpi.com/1424-8220/23/24/9894)]
 * Adaptive occlusion hybrid second-order attention network for head pose estimation. Int J Mach Learn Cyber 1:1–17 [[paper](https://link.springer.com/article/10.1007/s13042-023-01933-3)]
 * Driver visual attention estimation using head pose and eye appearance information. IEEE Open J Intell Transport Syst 4:216–231 [[paper](https://ieeexplore.ieee.org/abstract/document/10073949)]  
-* Towards 3d face reconstruction in perspective projection: Estimating 6d of face pose from monocular image. IEEE Trans Image Process 32:3080–3091. [[paper](https://ieeexplore.ieee.org/abstract/document/10127617)]
+* Towards 3d face reconstruction in perspective projection: Estimating 6d of face pose from monocular image. IEEE Trans Image Process 32:3080–3091. [[paper](https://ieeexplore.ieee.org/abstract/document/10127617)] [[code](https://github.com/cbsropenproject/6dof_face)]
 * Rotation representations and their conversions. IEEE Access 11:6682–6699. [[paper](https://ieeexplore.ieee.org/abstract/document/10019271)]  
-* Real-time driver monitoring system with facial landmark-based eye closure detection and head pose recognition. Sci Rep 13(1):18264 [[paper](https://www.nature.com/articles/s41598-023-44955-1)]
+* Real-time driver monitoring system with facial landmark-based eye closure detection and head pose recognition. Sci Rep 13(1):18264 [[paper](https://www.nature.com/articles/s41598-023-44955-1)] [[code](https://github.com/kdh6126/IR-Carmera-Datasets/)]
 * Facial landmark, head pose, and occlusion analysis using multitask stacked hourglass. IEEE Access 11:30 970–30981 [[paper](https://ieeexplore.ieee.org/abstract/document/10082923)]
 * Domain adaptation for head pose estimation using relative pose consistency. IEEE `Trans Biometr Behav I dentity Sci 5(3):348–359. [[paper](https://ieeexplore.ieee.org/abstract/document/10021684)]   
 * Deep learning based single sample face recognition: a survey. Artif Intell Rev 56(3):2723–2748 [[paper](https://link.springer.com/article/10.1007/s10462-022-10240-2)]
@@ -92,30 +92,30 @@
 * Single sample face recognition using deep learning: a survey. Artif Intell Rev 56(Suppl 1):1063 –1111. [[paper](https://link.springer.com/article/10.1007/s10462-023-10551-y)]
 * Wheelchair-centered omnidirectional gaze-point estimation in the wild. IEEE Trans Hum Mach Syst 53(3):466–478. [[paper](https://ieeexplore.ieee.org/abstract/document/10117502)]  
 * Siamese pointnet: 3d head pose estimation with local feature descriptor. Electronics 12(5):1194. [[paper](https://www.mdpi.com/2079-9292/12/5/1194)] 
-* 2dheadpose: a simple and effective annotation method for the head pose in rgb images and its dataset. Ne ural Netw 160:50–62. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608022005214)]
+* 2dheadpose: a simple and effective annotation method for the head pose in rgb images and its dataset. Ne ural Netw 160:50–62. [[paper] (https://www.sciencedirect.com/science/article/pii/S0893608022005214)] [code](https://github.com/youngnuaa/2DHeadPose)
 * A novel convolutional neural network for head detection and pose estimation in complex environments from single-depth images. Cogn Comput 1:1–14. [[paper](https://link.springer.com/article/10.1007/s12559-023-10209-5)]
-* Larnext: End-to-end lie algebra residual network for face recognition. IEEE Trans Pattern Anal Mach Intell 45(10):11961–11976. [[paper](https://ieeexplore.ieee.org/abstract/document/10143393)]
+* Larnext: End-to-end lie algebra residual network for face recognition. IEEE Trans Pattern Anal Mach Intell 45(10):11961–11976. [[paper](https://ieeexplore.ieee.org/abstract/document/10143393)] [[code](https://github.com/paradocx/LARNet)]
 
 
 ## Conference Papers 2023
 * Hands-free mobile device control through head pose estimation. In: 2023 IEEE International Conference on Pervasive Computing and Communications Workshops and Other Affiliated Events (PerCom Workshops), pp 367–373. IEEE, Atlanta, GA, USA [[paper](https://ieeexplore.ieee.org/abstract/document/10150384)]  
-* Discohead: audio-and-video-driven talking head generation by disentangled control of head pose and facial expressions. In: ICASSP 2023–2023 IEEE International Conference on Acoustics. Speech and Signal Processing (ICA SSP). IEEE, Rhodes Island, Greece, pp 1–5 [[paper](https://ieeexplore.ieee.org/abstract/document/10095670)]  
-* Dsfnet: Dual space fusion network for occlusion-robust 3d dense face alignment. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 4531–4540. IEEE, Vancouver, BC, Canada [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)]  
+* Discohead: audio-and-video-driven talking head generation by disentangled control of head pose and facial expressions. In: ICASSP 2023–2023 IEEE International Conference on Acoustics. Speech and Signal Processing (ICA SSP). IEEE, Rhodes Island, Greece, pp 1–5 [[paper](https://ieeexplore.ieee.org/abstract/document/10095670)]   [[code](https://deepbrainai-research.github.io/discohead/)]
+* Dsfnet: Dual space fusion network for occlusion-robust 3d dense face alignment. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 4531–4540. IEEE, Vancouver, BC, Canada [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_DSFNet_Dual_Space_Fusion_Network_for_Occlusion-Robust_3D_Dense_Face_CVPR_2023_paper.html)]  [[code](https://github.com/lhyfst/DSFNet)] 
 * Ds-hpe: Deep set for head pose estimation. In: 2023 IEEE 13th Annual Computing and Communication Workshop and Conference (CCWC), pp 1179–1184. IEEE, Las Vegas, NV, USA (2023). [[paper](https://ieeexplore.ieee.org/abstract/document/10099159)] 
-* Tokenhpe: learning orientation tokens for efficient head pose estimation via transformers. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 8897–8906. IEEE, Vancouver, BC, Canada. [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.html)]
+* Tokenhpe: learning orientation tokens for efficient head pose estimation via transformers. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 8897–8906. IEEE, Vancouver, BC, Canada. [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_TokenHPE_Learning_Orientation_Tokens_for_Efficient_Head_Pose_Estimation_via_CVPR_2023_paper.html)]  [[code](https://github.com/zc2023/TokenHPE)] 
 
 
 
 
 
 ## Others 2023
-* A simple baseline for direct 2d multi-person head pose estimation with full-range angles. arXiv preprint arX iv:2302.01110. [[paper](https://arxiv.org/abs/2302.01110)]
+* A simple baseline for direct 2d multi-person head pose estimation with full-range angles. arXiv preprint arX iv:2302.01110. [[paper](https://arxiv.org/abs/2302.01110)] [[code](https://github.com/hnuzhy/DirectMHP)]
 
 # 📚 2022 Conference and Journal Papers
 
 ## Journal Papers 2022 
 * Head pose estimation: an extensive survey on recent techniques and applications. Pattern Recogn 127:108591. [[paper](https://www.sciencedirect.com/science/article/pii/S0031320322000723)] 
-* Cross-domain multitask model for head detection and facial attribute estimation. IEEE Access 10:54703–54712. [[paper](https://ieeexplore.ieee.org/abstract/document/9779140)]
+* Cross-domain multitask model for head detection and facial attribute estimation. IEEE Access 10:54703–54712. [[paper](https://ieeexplore.ieee.org/abstract/document/9779140)] [[code](https://github.com/kahroba2000/MTL_MRCNN)]
 * Gradient boosting regression for faster partitioned iterated function systems-based head pose estimation. IET Biometr 11(4):279–288. [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/bme2.12061)]
 * Quaternion to euler angles conversion: A direct, general and computationally efficient method. PLoS ONE 17(11):0276302. [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0276302)]  
 * Evaluation of various state of the art head pose estimation algorithms for clinical scenarios. Sensors 22(18):685. [[paper](https://www.mdpi.com/1424-8220/22/18/6850)]  
@@ -128,7 +128,7 @@
 * Gmdl: toward precise head pose estimation via gaussian mixed distribution learning for students’ attention understanding. Infrared Phys Technol 122:104099. [[paper](https://www.sciencedirect.com/science/article/pii/S1350449522000809)]
 * Head pose healthiness prediction using a novel image quality based stacked autoencoder. Dig Signal Process 130:103696. [[paper](https://www.sciencedirect.com/science/article/pii/S105120042200313X)]   
 * Wide range head pose estimation using a single rgb camera for intelligent surveillance. IEEE Sen s J 22(11):11112–11121. [[paper](https://ieeexplore.ieee.org/abstract/document/9760377)]  
-* Real-time masked face classification and head pose estimation for rgb facial im age via knowledge distillation. Inf Sci 616:330–347. [[paper](https://www.sciencedirect.com/science/article/pii/S002002552201194X)] 
+* Real-time masked face classification and head pose estimation for rgb facial im age via knowledge distillation. Inf Sci 616:330–347. [[paper](https://www.sciencedirect.com/science/article/pii/S002002552201194X)] [[code](https://github.com/chientv99/maskpose)]
 * Head pose estimation in complex environment based on four-branch feature selective extraction and regional information exchange fusion network. IEEE Access 10:41287–41302. [[paper](https://ieeexplore.ieee.org/abstract/document/9750046)]  
 * Driver’s head pose and gaze zone estimation based on multi-zone templates registration and multi-frame point cloud fusion. Sensors 22(9):3154. [[paper](https://www.mdpi.com/1424-8220/22/9/3154)]
 * Collaborative learning network for head pose estimation. Image Vis Comput 127:104555. [[paper](https://www.sciencedirect.com/science/article/pii/S0262885622001846)]  
@@ -145,11 +145,11 @@
 
 
 ## Conference Papers 2022
-* Hhp-net: A light heteroscedastic neural network for head pose estimation with uncertainty. In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp 3521–3530. IEEE, Waikoloa, HI, U SA. [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.html)]
+* Hhp-net: A light heteroscedastic neural network for head pose estimation with uncertainty. In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp 3521–3530. IEEE, Waikoloa, HI, U SA. [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Cantarini_HHP-Net_A_Light_Heteroscedastic_Neural_Network_for_Head_Pose_Estimation_WACV_2022_paper.html)] [[code](https://github.com/cantarinigiorgio/HHP-Net)]
 * Fine-grained head pose estimation based on a 6d rotation representation with multiregression loss. In: International conference on Collaborative Computing: Networking. Applications and Worksharing. Springer, Cham, pp 231–249. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-24386-8_13)]  
 * Lwposr: Lightweight efficient fine grained head pose estimation. In: Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp 1495–1505. IEEE, Waikoloa, HI, USA. [[paper](https://openaccess.thecvf.com/content/WACV2022/html/Dhingra_LwPosr_Lightweight_Efficient_Fine_Grained_Head_Pose_Estimation_WACV_2022_paper.html)]
-* 6d rotation representation for unconstrained head pose estimation. In: 2022 IEEE International Conference on Image Processing (ICIP), pp 2496–2500. IEEE, Bordeaux, France. [[paper](https://ieeexplore.ieee.org/abstract/document/9897219)]  
-* Dad-3dheads: A large-scale dense, accurate and diverse da taset for 3d head alignment from a single image. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 20942–20952. IEEE, New Orleans, LA, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)]  
+* 6d rotation representation for unconstrained head pose estimation. In: 2022 IEEE International Conference on Image Processing (ICIP), pp 2496–2500. IEEE, Bordeaux, France. [[paper](https://ieeexplore.ieee.org/abstract/document/9897219)]  [[code](https://github.com/thohemp/6DRepNet)]
+* Dad-3dheads: A large-scale dense, accurate and diverse da taset for 3d head alignment from a single image. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 20942–20952. IEEE, New Orleans, LA, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)]  [code](https://www.pinatafarm.com/research/dad-3dheads)
 * Head pose estimation in classroom scenes. In: 2022 4th International Conference on Artificial Intelligence and Advanced Manufacturing (AIAM), pp 343–349. IEEE, Hamburg, Germany. [[paper](https://ieeexplore.ieee.org/abstract/document/10071472)]  
 * Srnet: Structural relation-aware network for head pose estimation. In: 202 2 26th International Conference on Pattern Recognition (ICPR), pp 826–832. IEEE, Montreal, QC, Canada. [[paper](https://ieeexplore.ieee.org/abstract/document/9956106)]
 
@@ -162,9 +162,9 @@
 
 # 📚 2021 Conference and Journal Papers
 ## Journal Papers 2021  
-* Learning 3d head pose from synthetic data: a semi-supervised approach. IE EE Access 9:37557–37573. [[paper](https://ieeexplore.ieee.org/abstract/document/9369299)]
+* Learning 3d head pose from synthetic data: a semi-supervised approach. IE EE Access 9:37557–37573. [[paper](https://ieeexplore.ieee.org/abstract/document/9369299)] [[code](https://github.com/C3Imaging/SyntheticHeadPose)]
 * Impact of facial landmark localization on facial expression recognition. IEEE Trans Affect Comput 14(2):1267–1279. [[paper](https://ieeexplore.ieee.org/abstract/document/9599570)]
-* Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)]  
+* Realheponet: a robust single-stage convnet for head pose estimation in the wild. Neural Comput Appl 33(13):7673–7689. [[paper](https://link.springer.com/article/10.1007/s00521-020-05511-4)] [[code](https://github.com/rafabs97/headpose_final)] 
 * Pifs scheme for head pose estimation aimed at faster face recognition. IEEE Trans Biome tr Behav Identity Sci 4(2):173–184. [[paper](https://ieeexplore.ieee.org/abstract/document/9585068)]
 * Fashe: A fractal based strategy for head pose estimation. IEEE Trans Image Process 30:3 192–3203. [[paper](https://ieeexplore.ieee.org/abstract/document/9360493)]  
 * Trfh: towards real-time face detection and head pose estimation. Pattern Anal Appl 24:1745–1755. [[paper](https://link.springer.com/article/10.1007/s10044-021-01026-3)]  
@@ -197,13 +197,13 @@
 * Headposr: End-to-end trainable head pose estimation using transformer encoders. In: 2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021), pp 1–8. IEEE, Jodhpur, India. [[paper](https://ieeexplore.ieee.org/abstract/document/9667080)]  
 * Repvgg: Making vgg-style convnets great again. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 13733–13742. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Ding_RepVGG_Making_VGG-Style_ConvNets_Great_Again_CVPR_2021_paper.html)]
 * Asmnet: A lightweight deep neural network for face alignment and pose estimation. In: Proceedings of the IEEE/CVF conference on Computer Vision and Pattern Recognition, pp 1521–1530. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Fard_ASMNet_A_Lightweight_Deep_Neural_Network_for_Face_Alignment_and_CVPRW_2021_paper.html)]  
-* Osgg-net: One-step graph generation network for unbiased head pose estimation. In: Proceedings of the 29th ACM International Conference on Multimedia, pp 2465–2473. ACM, Virtual Event, China. [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475417)]  
+* Osgg-net: One-step graph generation network for unbiased head pose estimation. In: Proceedings of the 29th ACM International Conference on Multimedia, pp 2465–2473. ACM, Virtual Event, China. [[paper](https://dl.acm.org/doi/abs/10.1145/3474085.3475417)]  [[code](https://github.com/stoneMo/OsGG-Net)]
 * Agora: Avatars in geography optimized for regression analysis. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 13468–13478. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)] [[code](https://github.com/pixelite1201/agora_evaluation)]  
 * Early warning pedestrian crossing intention from its head gesture using head pose estimation. In: 2021 International Seminar on Intelligent Technology and Its Applications (ISITIA), pp 402–407. IE EE, Surabaya, Indonesia. [[paper](https://ieeexplore.ieee.org/abstract/document/9502231)]  
 * Uet-headpose: A sensor-based top-view head pose dataset. In: 2021 13th International Conference on Knowledge and Systems Engineering (KSE), pp 1–7. IEEE, Bangkok, Thailand. [[paper](https://ieeexplore.ieee.org/abstract/document/9648656)]  
 * Simultaneous face detection and 360 degree head pose estimation. In: 2021 13th International Conference on Knowledge and Systems Engineering (KSE), pp 1–7. IEEE, Bangkok, Thailand. [[paper](https://ieeexplore.ieee.org/abstract/document/9648838)]  
-* Synergy between 3dmm and 3d landmarks for accurate 3d facial geometry. In: 2021 international conference on 3D Vision (3DV), pp 453–463. IEEE, London, UK. [[paper](https://ieeexplore.ieee.org/abstract/document/9665823)]  
-* Eva-gcn: Head pose estimation based on graph convolutional networks. In: Proceedings of the IEEE/CVF Co nference on Computer Vision and Pattern Recognition, pp 1462–1471. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Xin_EVA-GCN_Head_Pose_Estimation_Based_on_Graph_Convolutional_Networks_CVPRW_2021_paper.html)]  
+* Synergy between 3dmm and 3d landmarks for accurate 3d facial geometry. In: 2021 international conference on 3D Vision (3DV), pp 453–463. IEEE, London, UK. [[paper](https://ieeexplore.ieee.org/abstract/document/9665823)]  [[code](https://github.com/choyingw/SynergyNet)]
+* Eva-gcn: Head pose estimation based on graph convolutional networks. In: Proceedings of the IEEE/CVF Co nference on Computer Vision and Pattern Recognition, pp 1462–1471. IEEE, Nashville, TN, USA. [[paper](https://openaccess.thecvf.com/content/CVPR2021W/AMFG/html/Xin_EVA-GCN_Head_Pose_Estimation_Based_on_Graph_Convolutional_Networks_CVPRW_2021_paper.html)]  [[code](https://github.com/stoneMo/EVA-GCN)]
 * Measuring and integrating facial expressions and head pose as indicators of engagement and affect in tutoring systems. In: International Conference on Human-Computer Interaction, p p 219–233. Springer, Virtual Event. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-77873-6_16)]
 
   
@@ -235,9 +235,9 @@
 * A face recognition system for assistive robots. In: Proceedings of the 3rd International Conference on Applications of Intelligent Systems, pp 1–6. ACM, Las Palmas de Gran Canaria, Spain. [[paper](https://dl.acm.org/doi/abs/10.1145/3378184.3378225)]  
 * Gotcha-i: A multiview human videos dataset. Security in Computing and Communications: 7th International Symposium. SSCC 2019, Trivandrum, India, December 18–21, 2019, Revised Selected Papers. Springer, Springer, Singapore, pp 213–224 [[paper](https://link.springer.com/chapter/10.1007/978-981-15-4825-3_17)]  
 * Deep entwined learning head pose and face alignment inside an attentional cascade with doubly-con ditional fusion. In: 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp 192–198. IEEE, Buenos Aires, Argentina. [[paper](https://ieeexplore.ieee.org/abstract/document/9320262)]  
-* Retinaface: Single-shot multi-level face localisation in the wild. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 5203–5212. IEEE, Seattle, WA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html)]  
+* Retinaface: Single-shot multi-level face localisation in the wild. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 5203–5212. IEEE, Seattle, WA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html)]  [[code](https://github.com/biubug6/Pytorch_Retinaface)]
 * The more, the merrier? a study on in-car ir-based head pose estimation. In: 2020 IEEE Intelligent Vehicles Symposium (IV), pp 1060–1065. IEEE, Las Vegas, NV, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/9304545)]  
-* Towards fast, accurate and stable 3d dense face alignment. In: European Conference on Computer Vision, pp 152–168. Springer, Glasgow, UK. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_10)]   
+* Towards fast, accurate and stable 3d dense face alignment. In: European Conference on Computer Vision, pp 152–168. Springer, Glasgow, UK. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58529-7_10)]   [[code](https://github.com/cleardusk/3DDFA_V2)]
 * Robust driver head pose estimation in naturalistic conditions from point-cloud data. In: 2020 IEEE Intelligent Vehicles Symposium (IV), pp 1176–1182. IEEE, Las Vegas, NV, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/9304592)]* 
 * Maskgan: towards diverse and interactive facial image manipulation. In: Proceedings of the IEEE/C VF Conference on Computer Vision and Pattern Recognition, pp 5549–5558. IEEE, Seattle, WA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_MaskGAN_Towards_Diverse_and_Interactive_Facial_Image_Manipulation_CVPR_2020_paper.html)]  
 * A survey of head pose estimation methods. 2020 International Conferences on Internet o f Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cybernetics Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics). IEEE, Rhodes, Greece, pp 787–796. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9291593)]  
@@ -250,7 +250,7 @@
 
 ## Others 2020
 * A smooth representation of belief over so (3) for deep rotation learning with uncertainty. arXiv preprint. [[paper](https://arxiv.org/abs/2006.01031)]  
-* Whenet: Real-time fine-grained estimation for wide range head pose. arXiv preprint. [[paper](https://arxiv.org/abs/2005.10353)]
+* Whenet: Real-time fine-grained estimation for wide range head pose. arXiv preprint. [[paper](https://arxiv.org/abs/2005.10353)] [[part_code](https://github.com/Ascend-Research/HeadPoseEstimation-WHENet)]
 
 
 # 📚 2019 Conference and Journal Papers
@@ -271,7 +271,7 @@
 *  Nose, eyes and ears: Head pose estimation by locating facial keypoints. ICASSP 201 9–2019 IEEE International Conference on Acoustics. Speech and Signal Processing (ICASSP). IEEE, Brighton, UK, pp 1977–1981. [[paper](https://ieeexplore.ieee.org/abstract/document/8683503)]   
 * Expressive body capture: 3d hands, face, and body from a single image. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 10975–10985. IE EE, Long Beach, CA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Pavlakos_Expressive_Body_Capture_3D_Hands_Face_and_Body_From_a_CVPR_2019_paper.html)]  
 * Dd-pose-a large-scale driver head pose benchmark. In: 2019 IEEE Intelligent Vehicles Symposium (IV), pp 927 –934. IEEE, Paris, France. [[paper](https://ieeexplore.ieee.org/abstract/document/8814103)]  
-* Fsa-net: Learning fine-grained structure aggregation for head pose estimation from a single image. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 1087–1096. IEEE, Long Beac h, CA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.html)]  
+* Fsa-net: Learning fine-grained structure aggregation for head pose estimation from a single image. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp 1087–1096. IEEE, Long Beac h, CA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Yang_FSA-Net_Learning_Fine-Grained_Structure_Aggregation_for_Head_Pose_Estimation_From_CVPR_2019_paper.html)]  [[code](https://github.com/shamangary/FSA-Net)]
 * On the continuity of rotation representations in neural networks. In: Proceedings of the IEE E/CVF Conference on Computer Vision and Pattern Recognition, pp 5745–5753. IEEE, Long Beach, CA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.html)]
   
 
@@ -296,7 +296,7 @@
 ## Conference Papers 2018
 * Openface 2.0: Facial behavior analysis toolkit. In: 2018 13th IEEE International Conference on Automatic Face & Gesture Recognition (FG 2018), pp 59–66. IEEE, Xi’an, China. [[paper](https://ieeexplore.ieee.org/document/8373812)]  
 * Vggface2: A dataset for recognising faces across pose and age. In: 2018 13th IEE E International Conference on Automatic Face & Gesture Recognition (FG 2018), pp 67–74. IEEE, Xi’an, China. [[paper](https://ieeexplore.ieee.org/abstract/document/8373813)]   
-* Fine-grained head pose estimation without keypoints. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp 2074–2083. IEEE, Salt Lake City, UT, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w41/html/Ruiz_Fine-Grained_Head_Pose_CVPR_2018_paper.html)]  
+* Fine-grained head pose estimation without keypoints. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops, pp 2074–2083. IEEE, Salt Lake City, UT, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2018_workshops/w41/html/Ruiz_Fine-Grained_Head_Pose_CVPR_2018_paper.html)]  [[code](https://github.com/natanielruiz/deep-head-pose)]
 * Look at boundary: A boundary-aware face alignment algorithm. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 2129–2138. IEEE, Salt Lake City, UT, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Look_at_Boundary_CVPR_2018_paper.html)]  
 * Joint pose and expression modeling for facial expression recognition. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 3359–3368. IEEE, Salt Lake City, UT, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Joint_Pose_and_CVPR_2018_paper.html)]
 
