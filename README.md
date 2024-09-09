@@ -416,12 +416,12 @@
 
 * [2DHeadPose](https://github.com/youngnuaa/2DHeadPose), [[paper2023](https://www.sciencedirect.com/science/article/pii/S0893608022005214)]
 * [Dad-3dheads](https://www.pinatafarm.com/research/dad-3dheads) [[paper2022](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)] 
-* [AGORA](https://agora.is.tue.mpg.de/) [[paper2021](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)] [[code](https://github.com/pixelite1201/agora_evaluation)]
+* [AGORA](https://agora.is.tue.mpg.de/) [[paper2021](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)] 
 * [MDM corpus](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/) [[paper2021](https://ieeexplore.ieee.org/abstract/document/9507390)]  
 * [ETH-XGaze](https://ait.ethz.ch/xgaze) [[paper2020](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_22)]
 * [GOTCHA-I](https://github.com/GotchaProject/GotchaProject.github.io/tree/master/Prep_data) [[paper2020](https://link.springer.com/chapter/10.1007/978-981-15-4825-3_17)]  
-* [inD](https://www.ind-dataset.com/)
-* [rounD](https://www.round-dataset.com/)
+* [DD-Pose](https://github.com/herr-biber/dd-pose) [[paper2019](https://ieeexplore.ieee.org/abstract/document/8814103)]  
+* [VGGFace2](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/) [[paper2018](https://ieeexplore.ieee.org/abstract/document/8373813)]   
 * [uniD](https://www.unid-dataset.com/)
 * [exiD](https://www.exid-dataset.com/)
 * [Dronalize](https://github.com/westny/dronalize)
