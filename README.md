@@ -37,11 +37,8 @@
 	- [Journal Papers](#journal-papers)
    	- [Conference Papers](#conference-papers)
 	- [Others](#others)
-- [**📚 Traditional Methods**](#-traditional-methods)
-  	- [Journal Papers](#journal-paperst)
-   	- [Conference Papers](#conference-paperst)
-	- [Others](#otherst)
-- [**📚 Related Review Papers**](#-related-review-papers)
+
+
 - [**📚 Datasets**](#-datasets)
   	- [Reviews about Datasets](#reviews-about-datasets)
 	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
@@ -412,47 +409,8 @@
 
 
 
-# 📚 Traditional Methods
 
-# 📚 Related Review Papers
-* Summary and Reflections on Pedestrian Trajectory Prediction in the Field of Autonomous Driving, TIV 2024. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10528911)]
-* A Review of Trajectory Prediction Methods for the Vulnerable Road User, Robotics 2023. [[paper](https://www.mdpi.com/2218-6581/13/1/1)]
-* A Survey of Generative AI for Intelligent Transportation Systems, arXiv preprint arXiv:2312.08248, 2023. [[paper](https://arxiv.org/pdf/2312.08248.pdf)]
-* Pedestrian and vehicle behaviour prediction in autonomous vehicle system — A review, Expert Systems With Applications 2023. [[paper](https://www.sciencedirect.com/science/article/pii/S0957417423024855)]
-* Data-driven Traffic Simulation: A Comprehensive Review, arXiv preprint arXiv:2310.15975, 2023. [[paper](https://arxiv.org/ftp/arxiv/papers/2310/2310.15975.pdf)]
-* Pedestrian Trajectory Prediction in Pedestrian-Vehicle Mixed Environments: A Systematic Review, TITS 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10181234)]
-* Machine Learning for Autonomous Vehicle’s Trajectory Prediction: A comprehensive survey, Challenges, and Future Research Directions, arXiv preprint arXiv:2307.07527, 2023. [[paper](https://arxiv.org/pdf/2307.07527.pdf)]
-* Incorporating Driving Knowledge in Deep Learning Based Vehicle Trajectory Prediction: A Survey, IEEE Transactions on Intelligent Vehicles 2023. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10100881)]
-* A Survey of Vehicle Trajectory Prediction Based on Deep Learning Models, International Conference on Sustainable Expert Systems: ICSES 2022. [[paper](https://link.springer.com/chapter/10.1007/978-981-19-7874-6_48)]
-* A Survey on Trajectory-Prediction Methods for Autonomous Driving, IEEE Transactions on Intelligent Vehicles 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9756903)]
-* Generative Adversarial Networks for Spatio-temporal Data: A Survey, ACM Transactions on Intelligent Systems and Technology 2022. [[paper](https://dl.acm.org/doi/pdf/10.1145/3474838)]
-* Scenario Understanding and Motion Prediction for Autonomous Vehicles – Review and Comparison, TITS 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9733973)]
-* Deep Reinforcement Learning for Autonomous Driving: A Survey, TITS 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9351818)]
-* Social Interactions for Autonomous Driving: A Review and Perspective, arXiv preprint arXiv:2208.07541, 2022. [[paper](https://arxiv.org/pdf/2208.07541.pdf)]
-* Behavioral Intention Prediction in Driving Scenes: A Survey, arXiv preprint arXiv:2211.00385, 2022. [[paper](https://arxiv.org/pdf/2211.00385.pdf)]
-* Multi-modal Fusion Technology based on Vehicle Information: A Survey, arXiv preprint arXiv:2211.06080, 2022. [[paper](https://arxiv.org/pdf/2211.06080.pdf)]
-* Pedestrian Behavior Prediction for Automated Driving: Requirements, Metrics, and Relevant Features, TITS 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9660784)]
-* A Review of Deep Learning-Based Methods for Pedestrian Trajectory Prediction, Sensors 2021. [[paper](https://www.mdpi.com/1424-8220/21/22/7543/pdf)]
-* A Survey on Deep-Learning Approaches for Vehicle Trajectory Prediction in Autonomous Driving, IEEE International Conference on Robotics and Biomimetics (ROBIO 2021). [[paper](https://arxiv.org/pdf/2110.10436.pdf)] [[code](https://github.com/Henry1iu/TNT-Trajectory-Predition)]
-* Review of Pedestrian Trajectory Prediction Methods: Comparing Deep Learning and Knowledge-based Approaches, arXiv preprint arXiv:2111.06740, 2021. [[paper](https://arxiv.org/pdf/2111.06740.pdf)]
-* A Survey on Trajectory Data Management, Analytics, and Learning, ACM Computing Surveys (CSUR 2021). [[paper](https://dl.acm.org/doi/pdf/10.1145/3440207)]
-* A Survey on Motion Prediction of Pedestrians and Vehicles for Autonomous Driving, IEEE Access 2021. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9559998)]
-* Autonomous Driving with Deep Learning: A Survey of State-of-Art Technologies, arXiv preprint arXiv:2006.06091, 2020. [[paper](https://arxiv.org/ftp/arxiv/papers/2006/2006.06091.pdf)]
-* A Survey on Visual Traffic Simulation: Models, Evaluations, and Applications in Autonomous Driving, Computer Graphics Forum 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13803?saml_referrer)]
-* A Survey of Deep Learning Techniques for Autonomous Driving, Journal of Field Robotics 2020. [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/rob.21918?saml_referrer)]
-* Human Motion Trajectory Prediction: A Survey, International Journal of Robotics Research 2020. [[paper](http://sage.cnpereading.com/paragraph/download/?doi=10.1177/0278364920917446)]
-* Vehicle Trajectory Similarity: Models, Methods, and Applications, ACM Computing Surveys (CSUR 2020). [[paper](https://dl.acm.org/doi/pdf/10.1145/3406096)]
-* Deep Learning-Based Vehicle Behavior Prediction for Autonomous Driving Applications: A Review, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9158529)]
-* Survey of Deep Reinforcement Learning for Motion Planning of Autonomous Vehicles, TITS 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9210154)]
-* Overview of Tools Supporting Planning for Automated Driving, ITSC 2020. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294512)]
-* Autonomous Vehicles that Interact with Pedestrians: A Survey of Theory and Practice, TITS 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667866)]
-* A Survey on Path Prediction Techniques for Vulnerable Road Users: From Traditional to Deep-Learning Approaches, ITSC 2019. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8917053)]
-* Spatio-Temporal Data Mining: A Survey of Problems and Methods, ACM Computing Surveys 2018. [[paper](https://dl.acm.org/doi/pdf/10.1145/3161602)]
-* Survey on Vision-Based Path Prediction, International Conference on Distributed, Ambient, and Pervasive Interactions (DAPI 2018). [[paper](https://link.springer.com/content/pdf/10.1007/978-3-319-91131-1_4.pdf)]
-* Moving Objects Analytics: Survey on Future Location & Trajectory Prediction Methods, arXiv preprint arXiv:1807.04639, 2018. [[paper](https://arxiv.org/ftp/arxiv/papers/1807/1807.04639.pdf)]
-* A Survey on Trajectory Data Mining: Techniques and Applications, IEEE Access 2016. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7452339)]
-* Trajectory Data Mining: An Overview, ACM Transactions on Intelligent Systems and Technology 2015. [[paper](http://urban-computing.com/pdf/TrajectoryDataMining-tist-yuzheng.pdf)]
-* A survey on motion prediction and risk assessment for intelligent vehicles, ROBOMECH Journal 2014. [[paper](https://robomechjournal.springeropen.com/track/pdf/10.1186/s40648-014-0001-z.pdf)]
+
 
 # 📚 Datasets
 ## Reviews about Datasets
