@@ -92,7 +92,7 @@
 * Single sample face recognition using deep learning: a survey. Artif Intell Rev 56(Suppl 1):1063 –1111. [[paper](https://link.springer.com/article/10.1007/s10462-023-10551-y)]
 * Wheelchair-centered omnidirectional gaze-point estimation in the wild. IEEE Trans Hum Mach Syst 53(3):466–478. [[paper](https://ieeexplore.ieee.org/abstract/document/10117502)]  
 * Siamese pointnet: 3d head pose estimation with local feature descriptor. Electronics 12(5):1194. [[paper](https://www.mdpi.com/2079-9292/12/5/1194)] 
-* 2dheadpose: a simple and effective annotation method for the head pose in rgb images and its dataset. Ne ural Netw 160:50–62. [[paper] (https://www.sciencedirect.com/science/article/pii/S0893608022005214)] [code](https://github.com/youngnuaa/2DHeadPose)
+* 2dheadpose: a simple and effective annotation method for the head pose in rgb images and its dataset. Ne ural Netw 160:50–62. [[paper](https://www.sciencedirect.com/science/article/pii/S0893608022005214)] [code](https://github.com/youngnuaa/2DHeadPose)
 * A novel convolutional neural network for head detection and pose estimation in complex environments from single-depth images. Cogn Comput 1:1–14. [[paper](https://link.springer.com/article/10.1007/s12559-023-10209-5)]
 * Larnext: End-to-end lie algebra residual network for face recognition. IEEE Trans Pattern Anal Mach Intell 45(10):11961–11976. [[paper](https://ieeexplore.ieee.org/abstract/document/10143393)] [[code](https://github.com/paradocx/LARNet)]
 
