@@ -39,8 +39,7 @@
 	- [Others](#others-2019)
 - [**📚 2018 Conference and Journal Papers**](#-2018-conference-and-journal-papers)	
 	- [Journal Papers](#journal-papers-2018)
-   	- [Conference Papers](#conference-papers-2018)
-	- [Others](#others-2018)
+   	- [Conference Papers](#conference-papers-2018)	
 - [**📚 2017 and Before Conference and Journal Papers**](#-2017-and-before-conference-and-journal-papers)	
 	- [Journal Papers](#journal-papers)
    	- [Conference Papers](#conference-papers)
@@ -309,8 +308,7 @@
   
 
 
-## Others 2018
-* non
+
 
 
 # 📚 2017 and Before Conference and Journal Papers
