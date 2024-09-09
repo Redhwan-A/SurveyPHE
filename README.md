@@ -430,42 +430,14 @@
 * [AFLW2000](https://www.tensorflow.org/datasets/catalog/aflw2k3d) [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
 * [CCNU](non) [[paper2016](https://www.sciencedirect.com/science/article/pii/S0925231215010413)]
 * [UPNA](https://www.unavarra.es/gi4e/databases/hpdb) [[paper2016](https://www.sciencedirect.com/science/article/pii/S1077314215000934)]  
-* [Cityscapes](https://www.cityscapes-dataset.com/)
-* [KITTI](http://www.cvlibs.net/datasets/kitti/)
-* [nuScenes](https://www.nuscenes.org/)
-* [TRAF](https://gamma.umd.edu/researchdirections/autonomousdriving/trafdataset)
-* [Lyft Level 5](https://level-5.global/)
-* [METEOR](https://gamma.umd.edu/researchdirections/autonomousdriving/meteor/)
-* [DiDi GAIA](https://outreach.didichuxing.com/research/opendata/), [D²-City](https://www.scidb.cn/en/detail?dataSetId=804399692560465920&dataSetType=personal), [paper](https://arxiv.org/pdf/1904.01975)
-* [Shanghai & Hangzhou](https://dl.acm.org/doi/abs/10.1145/2700478)
-* [Beijing](https://dl.acm.org/doi/10.1145/2525314.2525343)
-* [VMT](https://ieeexplore.ieee.org/document/6482546)
-* [TRAFFIC](https://ieeexplore.ieee.org/document/7565640), [website](https://min.sjtu.edu.cn/lwydemo/Trajectory%20analysis.htm)
-* [CROSS](https://cvrr-nas.ucsd.edu/publications/2011/Morris_PAMI2011.pdf), [website](http://cvrr.ucsd.edu/bmorris/datasets/)
-* [Ubiquitous Traffic Eyes (UTE)](http://seutraffic.com/#/home)
-## Pedestrians Publicly Available Datasets
-* [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
-* [UCY](https://graphics.cs.ucy.ac.cy/research/downloads/crowd-data)
-* [ETH](https://icu.ee.ethz.ch/research/datsets.html), [paper](https://ethz.ch/content/dam/ethz/special-interest/baug/igp/photogrammetry-remote-sensing-dam/documents/pdf/pellegrini09iccv.pdf)
-* [Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/)
-* [TrajNet](http://trajnet.stanford.edu/)
-* [Oxford Town Center](https://exposing.ai/oxford_town_centre/)
-* [New York Grand Central Station](https://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html), [paper](https://ieeexplore.ieee.org/abstract/document/5995459), [paper](https://people.csail.mit.edu/bzhou/project/cvpr2012/zhoucvpr2012.pdf), [paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Yi_Understanding_Pedestrian_Behaviors_2015_CVPR_paper.pdf)
-* [PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
-* [JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
-* [DS4C-PPP](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
-* [BDBC COVID-19](https://github.com/BDBC-KG-NLP/COVID-19-tracker)
-* [Vi-Fi](https://sites.google.com/winlab.rutgers.edu/vi-fidataset/home)
-## Others Agents Datasets
-### Aircraft
-* [LocaRDS](https://atmdata.github.io/)
-* [ZUMAVD](https://rpg.ifi.uzh.ch/zurichmavdataset.html)
-### Ship
-* [Ushant](https://figshare.com/articles/dataset/Ushant_AIS_dataset/8966273)
-* [Cargo](https://link.springer.com/article/10.1007/s10707-020-00421-y)
-### Hurricane and Animal
-* [HURDAT2](https://www.nhc.noaa.gov/data/)
-* [Movebank](https://www.movebank.org/cms/movebank-main)
+* [WIDER FACE](http://shuoyang1213.me/WIDERFACE/)
+* [CMU Panoptic](http://domedb.perception.cs.cmu.edu/)
+* [Dali3DHP](non)
+* [EYEDIAP](https://www.idiap.ch/en/scientific-research/data/eyediap) [[paper2014](https://dl.acm.org/doi/abs/10.1145/2578153.2578190)] 
+* [McGill]()
+* [Biwi](https://icu.ee.ethz.ch/research/datsets.html) [[paper2013](https://link.springer.com/article/10.1007/s11263-012-0549-0)]
+* [ICT-3DHP](http://multicomp.cs.cmu.edu/resources/ict-3d-headpose-database-2/),[[paper2012](https://ieeexplore.ieee.org/abstract/document/6247980)]
+* [AFW](https://mmlab.ie.cuhk.edu.hk/projects/compositional.html) [[paper2011](https://ieeexplore.ieee.org/abstract/document/6130513)]
 
 # 🌹 Acknowledgments
 We are grateful to the authors and developers who provided the papers, the open-source code, and the project website! Thank you for your positive contributions to the agent trajectory prediction community. Your thoughts and contributions are a green signal for us. If you have suggestions or additional insights, feel free to open an issue or submit a pull request.
