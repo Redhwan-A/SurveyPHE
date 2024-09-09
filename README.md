@@ -44,8 +44,7 @@
 - [**📚 2017 and Before Conference and Journal Papers**](#-2017-and-before-conference-and-journal-papers)	
 	- [Journal Papers](#journal-papers)
    	- [Conference Papers](#conference-papers)
-	- [Others](#others)
-
+	
 - [**📚 Datasets**](#-datasets)	
 
 - [**🌹 Acknowledgments**](#-acknowledgments)
