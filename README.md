@@ -375,7 +375,8 @@
 * Deep residual learning for image recognition. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 770–778. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)]  
 * Wider face: A face detection benchmark. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 5525–5533. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)]  
 * Face alignment across large poses: A 3d solution. In: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp 146–155. IEEE, Las Vegas, NV, USA. [[paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
-
+## Conference Papers 2015 
+Panoptic studio: A massively multiview syste m for social motion capture. In: Proceedings of the IEEE International Conference on Computer Vision, pp 3334–3342. IEEE, Santiago, Chile [[paper](https://openaccess.thecvf.com/content_iccv_2015/html/Joo_Panoptic_Studio_A_ICCV_2015_paper.html)]
 ## Conference Papers 2014  
 * Eyediap: A database for the development and evaluation of gaze estimation algorithms from rgb and rgb-d cameras. In: Proceedings of the symposium on Eye Tracking Research and Applications, pp 255–258. ACM, Safety Harb or, Florida, USA. [[paper](https://dl.acm.org/doi/abs/10.1145/2578153.2578190)]  
 * Stereo vision-based driver head pose estimation. In: 2014 IEEE Intelligent Vehicles Symposium Proceedings, pp 253–260. IEEE, Dearborn, MI, USA. [[paper](https://ieeexplore.ieee.org/abstract/document/6856578)]
@@ -426,15 +427,15 @@
 * [DriveAHead](non) [[paper2017](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w13/html/Schwarz_DriveAHead_-_A_CVPR_2017_paper.html)]
 * [SASE](https://icv.tuit.ut.ee/databases/) [[paper2017](https://ieeexplore.ieee.org/abstract/document/7961825)] 
 * [Pandora](https://aimagelab.ing.unimore.it/pandora/) [[paper2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Borghi_POSEidon_Face-From-Depth_for_CVPR_2017_paper.html)]  
-* [300W-LP](https://www.tensorflow.org/datasets/catalog/the300w_lp), [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
-* [AFLW2000](https://www.tensorflow.org/datasets/catalog/aflw2k3d) [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
+* [300W-LP](https://www.tensorflow.org/datasets/catalog/the300w_lp), or [300W-LP](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm), [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
+* [AFLW2000](https://www.tensorflow.org/datasets/catalog/aflw2k3d) [AFLW2000](http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm) or  [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html)]
 * [CCNU](non) [[paper2016](https://www.sciencedirect.com/science/article/pii/S0925231215010413)]
 * [UPNA](https://www.unavarra.es/gi4e/databases/hpdb) [[paper2016](https://www.sciencedirect.com/science/article/pii/S1077314215000934)]  
-* [WIDER FACE](http://shuoyang1213.me/WIDERFACE/)
-* [CMU Panoptic](http://domedb.perception.cs.cmu.edu/)
-* [Dali3DHP](non)
+* [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) [[paper2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)]  
+* [CMU Panoptic](http://domedb.perception.cs.cmu.edu/) [[paper2015](https://openaccess.thecvf.com/content_iccv_2015/html/Joo_Panoptic_Studio_A_ICCV_2015_paper.html)]
+* [Dali3DHP](non) [[paper2014](https://ieeexplore.ieee.org/abstract/document/6977105)]
 * [EYEDIAP](https://www.idiap.ch/en/scientific-research/data/eyediap) [[paper2014](https://dl.acm.org/doi/abs/10.1145/2578153.2578190)] 
-* [McGill]()
+* [McGill]() [[paper2014](https://link.springer.com/article/10.1007/s11042-012-1352-1)]
 * [Biwi](https://icu.ee.ethz.ch/research/datsets.html) [[paper2013](https://link.springer.com/article/10.1007/s11263-012-0549-0)]
 * [ICT-3DHP](http://multicomp.cs.cmu.edu/resources/ict-3d-headpose-database-2/),[[paper2012](https://ieeexplore.ieee.org/abstract/document/6247980)]
 * [AFW](https://mmlab.ie.cuhk.edu.hk/projects/compositional.html) [[paper2011](https://ieeexplore.ieee.org/abstract/document/6130513)]
