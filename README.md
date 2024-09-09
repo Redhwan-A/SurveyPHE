@@ -38,15 +38,7 @@
    	- [Conference Papers](#conference-papers)
 	- [Others](#others)
 
-
-- [**📚 Datasets**](#-datasets)
-  	- [Reviews about Datasets](#reviews-about-datasets)
-	- [Vehicles Publicly Available Datasets](#vehicles-publicly-available-datasets)
-	- [Pedestrians Publicly Available Datasets](#pedestrians-publicly-available-datasets)
-	- [Others Agents Datasets](#others-agents-datasets)
-		- [Aircraft](#aircraft)
-		- [Ship](#ship)
-		- [Hurricane and Animal](#hurricane-and-animal)
+- [**📚 Datasets**](#-datasets)	
 
 - [**🌹 Acknowledgments**](#-acknowledgments)
 - [**🌟 Star History**](#-star-history)
@@ -441,7 +433,7 @@ Panoptic studio: A massively multiview syste m for social motion capture. In: Pr
 * [AFW](https://mmlab.ie.cuhk.edu.hk/projects/compositional.html) [[paper2011](https://ieeexplore.ieee.org/abstract/document/6130513)]
 
 # 🌹 Acknowledgments
-We are grateful to the authors and developers who provided the papers, the open-source code, and the project website! Thank you for your positive contributions to the agent trajectory prediction community. Your thoughts and contributions are a green signal for us. If you have suggestions or additional insights, feel free to open an issue or submit a pull request.
+This work was supported in part by the research fund of Hanyang University (HY-202200000003162) and in part by the National Research Foundation of Korea (NRF) grant funded by the Korea Government (MSIT) No. 2022R1A2C1011807.
 
 # 🌟 Star History
 
