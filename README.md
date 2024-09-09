@@ -1,5 +1,13 @@
 # Deep learning and machine learning techniques for head pose estimation: a survey
 
+
+<table>
+<tr>
+<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF-Hpe.gif" height="240"></td>
+<td><img src="https://github.com/Redhwan-A/6DoF-HPE/blob/main/gif/6DoF.gif" height="240"></td>  
+</tr>
+</table>
+
 ******
 
 # 📜 Table of Contents
