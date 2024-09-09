@@ -413,12 +413,8 @@
 
 
 # 📚 Datasets
-## Reviews about Datasets
-* A Survey on Autonomous Driving Datasets: Data Statistic, Annotation, and Outlook, arXiv preprint arXiv:2401.01454, 2024. [[paper](https://arxiv.org/pdf/2401.01454.pdf)]
-* Open-sourced Data Ecosystem in Autonomous Driving: the Present and Future, arXiv preprint arXiv:2312.03408, 2023. [[paper](https://arxiv.org/pdf/2312.03408.pdf)] [[Chinese](https://opendrivelab.com/Dataset_Survey_Chinese.pdf)] [[code](https://github.com/OpenDriveLab/DriveAGI)]
 
-## Vehicles Publicly Available Datasets
-* [Porto](https://www.kaggle.com/c/pkdd-15-predict-taxi-service-trajectory-i/data), [website](https://archive.ics.uci.edu/ml/datasets/Taxi+Service+Trajectory+-+Prediction+Challenge,+ECML+PKDD+2015)
+* [2DHeadPose](https://github.com/youngnuaa/2DHeadPose), [[paper2023](https://www.sciencedirect.com/science/article/pii/S0893608022005214)]
 * [NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)
 * [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 * [T-drive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)
