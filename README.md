@@ -250,7 +250,7 @@
 * Maskgan: towards diverse and interactive facial image manipulation. In: Proceedings of the IEEE/C VF Conference on Computer Vision and Pattern Recognition, pp 5549–5558. IEEE, Seattle, WA, USA. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Lee_MaskGAN_Towards_Diverse_and_Interactive_Facial_Image_Manipulation_CVPR_2020_paper.html)]  
 * A survey of head pose estimation methods. 2020 International Conferences on Internet o f Things (iThings) and IEEE Green Computing and Communications (GreenCom) and IEEE Cybernetics Physical and Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics). IEEE, Rhodes, Greece, pp 787–796. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9291593)]  
 * Classroom attention analysis based on multiple euler angles constraint and head pose estimation. In: MultiMedia Modeling: 26th International Conference. MMM 2020, Daejeon, South Korea, January 5–8, 2020, Proceedings, Part I 26. Springer, Daejeo n, South Korea, pp 329–340. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-37731-1_27)]   
-* A large scale dataset for gaze estimation under extreme head pose and gaze variation. Computer Vision-ECCV 2020: 16th European Conference. Glasgow, UK, August 23–28, 2020, Proceedings, Part V 16. Springer, Glasgow, UK, pp 365–381. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_22)]
+* ETH-XGaze: A large scale dataset for gaze estimation under extreme head pose and gaze variation. Computer Vision-ECCV 2020: 16th European Conference. Glasgow, UK, August 23–28, 2020, Proceedings, Part V 16. Springer, Glasgow, UK, pp 365–381. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_22)]
   
 
 
@@ -415,11 +415,11 @@
 # 📚 Datasets
 
 * [2DHeadPose](https://github.com/youngnuaa/2DHeadPose), [[paper2023](https://www.sciencedirect.com/science/article/pii/S0893608022005214)]
-* [NGSIM](https://data.transportation.gov/Automobiles/Next-Generation-Simulation-NGSIM-Vehicle-Trajector/8ect-6jqj)
-* [NYC](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
-* [T-drive](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)
-* [Greek Trucks](http://www.chorochronos.org/)
-* [highD](https://www.highd-dataset.com/)
+* [Dad-3dheads](https://www.pinatafarm.com/research/dad-3dheads) [[paper2022](https://openaccess.thecvf.com/content/CVPR2022/html/Martyniuk_DAD-3DHeads_A_Large-Scale_Dense_Accurate_and_Diverse_Dataset_for_3D_CVPR_2022_paper.html)] 
+* [AGORA](https://agora.is.tue.mpg.de/) [[paper2021](https://openaccess.thecvf.com/content/CVPR2021/html/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.html)] [[code](https://github.com/pixelite1201/agora_evaluation)]
+* [MDM corpus](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/) [[paper2021](https://ieeexplore.ieee.org/abstract/document/9507390)]  
+* [ETH-XGaze](https://ait.ethz.ch/xgaze) [[paper2020](https://link.springer.com/chapter/10.1007/978-3-030-58558-7_22)]
+* [GOTCHA-I](https://github.com/GotchaProject/GotchaProject.github.io/tree/master/Prep_data) [[paper2020](https://link.springer.com/chapter/10.1007/978-981-15-4825-3_17)]  
 * [inD](https://www.ind-dataset.com/)
 * [rounD](https://www.round-dataset.com/)
 * [uniD](https://www.unid-dataset.com/)
