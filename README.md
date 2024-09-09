@@ -70,9 +70,8 @@
 
 
 ## Conference Papers 2024
-* non
-## Others 2024
-* non
+* Head Pose Estimation Based on 5D Rotation Representation. IEEE Symposium on Wireless Technology and Applications (ISWTA) [[paper](https://ieeexplore.ieee.org/abstract/document/10651821)] [[code](https://github.com/Redhwan-A/HPE_5D)]
+
 # 📚 2023 Conference and Journal Papers
 ## Journal Papers 2023
 * Deep learning for head pose estimation: a survey. SN Comput Sci 4(4):349 [[paper](https://link.springer.com/article/10.1007/s42979-023-01796-z)]
