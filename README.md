@@ -1,4 +1,4 @@
-# Deep learning and machine learning techniques for head pose estimation: a survey
+# Deep learning and machine learning techniques for head pose estimation: a survey [[paper](https://link.springer.com/article/10.1007/s10462-024-10936-7)]
 
 
 <table>
