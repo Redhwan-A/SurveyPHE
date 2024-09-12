@@ -444,7 +444,7 @@ Panoptic studio: A massively multiview syste m for social motion capture. In: Pr
 * [AFW](https://mmlab.ie.cuhk.edu.hk/projects/compositional.html) [[paper2011](https://ieeexplore.ieee.org/abstract/document/6130513)]
 
 # 🌹 Acknowledgments
-This work was supported in part by the research fund of Hanyang University (HY-202200000003162) and in part by the National Research Foundation of Korea (NRF) grant funded by the Korea Government (MSIT) No. 2022R1A2C1011807.
+This work was supported in part by the research fund of Hanyang University (HY- 202300000003239) and in part by the National Research Foundation of Korea (NRF) grant funded by the Korea Government (MSIT) No. 2022R1A4A3033961.
 
 # 🌟 Star History
 
