@@ -12,7 +12,15 @@
 # Citing
 
 ```
-coming soon
+@article{algabri2024deep,
+  title={Deep learning and machine learning techniques for head pose estimation: a survey},
+  author={Algabri, Redhwan and Abdu, Ahmed and Lee, Sungon},
+  journal={Artificial Intelligence Review},
+  volume={57},
+  pages={288},
+  year={2024},
+  publisher={Springer}
+}
 ```
 
 ******
