@@ -17,7 +17,8 @@
   author={Algabri, Redhwan and Abdu, Ahmed and Lee, Sungon},
   journal={Artificial Intelligence Review},
   volume={57},
-  pages={288},
+  number={10},
+  pages={1--66},
   year={2024},
   publisher={Springer}
 }
